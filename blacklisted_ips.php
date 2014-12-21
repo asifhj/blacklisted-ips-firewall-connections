@@ -6,7 +6,7 @@
   <title>Blacklisted IPs violation.</title> 
   <link rel="stylesheet" type="text/css" href="examples/shared/style.css" />
   <link rel="stylesheet" type="text/css" href="examples/shared/style.css" />
-  <link rel="stylesheet" type="text/css" href="./assets/css/default.css" />
+  <link rel="stylesheet" type="text/css" href="./vendor/css/default.css" />
    <style type="text/css">
       #map-canvas {
         
@@ -27,12 +27,12 @@
 	}
     </style>
  <style type="text/css" title="currentStyle">
-			@import "./assets/css/demo_page.css";
-			@import "./assets/css/demo_table.css";
+			@import "./vendor/css/demo_page.css";
+			@import "./vendor/css/demo_table.css";
 			
 </style>
-	<script type="text/javascript" language="javascript" src="./assets/js/jquery.js"></script>
-	<script type="text/javascript" language="javascript" src="./assets/js/jquery.dataTables.js"></script>
+	<script type="text/javascript" language="javascript" src="./vendor/js/jquery.js"></script>
+	<script type="text/javascript" language="javascript" src="./vendor/js/jquery.dataTables.js"></script>
 	
 	<script type="text/javascript">
 	$(document).ready(function() {

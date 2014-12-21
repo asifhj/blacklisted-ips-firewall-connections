@@ -21,7 +21,7 @@
 
 <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
 
-    <script src="./assets/js/infobubble.js" type="text/javascript"></script>
+    <script src="./vendor/js/infobubble.js" type="text/javascript"></script>
     <script type="text/javascript">
 	var map;
 	var marker;
@@ -55,7 +55,7 @@
         marker = new google.maps.Marker({
 			draggable: true,
 			title: 'Move me!',
-			icon: './assets/img/center.png'});
+			icon: './vendor/img/center.png'});
 
         // Bind the marker map property to the DistanceWidget map property
         marker.bindTo('map', this);
@@ -108,7 +108,7 @@
 			for($i=0;$i<20;$i++)
 			{
 				echo 'markers['.$i.'] = new google.maps.Marker({position: new google.maps.LatLng(';
-				echo $lat[$i].','.$lon[$i].'),map: map,title:"Location: '.$location[$i].'",draggable:true,icon:"./assets/img/locations.png",});';
+				echo $lat[$i].','.$lon[$i].'),map: map,title:"Location: '.$location[$i].'",draggable:true,icon:"./vendor/img/locations.png",});';
 			
 				echo 'infoBubble['.$i.'] = new InfoBubble(infobubblestyle);';	
 				if($totalip[$i]<10)
@@ -174,12 +174,12 @@
 	google.maps.event.addDomListener(window, 'load', init);
     </script>
 	<style type="text/css" title="currentStyle">
-			@import "./assets/css/demo_page.css";
-			@import "./assets/css/demo_table.css";
+			@import "./vendor/css/demo_page.css";
+			@import "./vendor/css/demo_table.css";
 			
 		</style>
-	<script type="text/javascript" language="javascript" src="./assets/js/jquery.js"></script>
-	<script type="text/javascript" language="javascript" src="./assets/js/jquery.dataTables.js"></script>
+	<script type="text/javascript" language="javascript" src="./vendor/js/jquery.js"></script>
+	<script type="text/javascript" language="javascript" src="./vendor/js/jquery.dataTables.js"></script>
 	<script type="text/javascript">
 	$(document).ready(function() {
     oTable = $('#details').dataTable({
