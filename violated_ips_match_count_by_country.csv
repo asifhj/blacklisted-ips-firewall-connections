@@ -1,0 +1,116 @@
+Subtype,Pri,Status_IP,Total hits,country_code,country_code3,country_name,latitude,longitude,time_zone
+violation,warning,deny,383580,IN,IND,India,12.98330021,77.58329773,Asia/Calcutta
+violation,warning,deny,213279,CN,CHN,China,32.84267363,95.625,Asia/Chongqing
+violation,warning,deny,89982,US,USA,United States,40.67660141,-74.42019653,America/New_York
+violation,warning,deny,33711,GB,GBR,United Kingdom,51.5,-0.129999995,Europe/London
+violation,warning,deny,10550,IR,IRN,"Iran, Islamic Republic of",35.46390152,48.87630081,Asia/Tehran
+violation,warning,deny,8360,RU,RUS,Russian Federation,60,100,
+violation,warning,deny,7109,JP,JPN,Japan,35.68500137,139.7514038,Asia/Tokyo
+violation,warning,deny,6822,KR,KOR,"Korea, Republic of",37,127.5,Asia/Seoul
+violation,warning,deny,6627,NA,NA,NA,NA,NA,NA
+violation,warning,deny,4939,DE,DEU,Germany,49.24499893,11.09109974,Europe/Berlin
+violation,warning,deny,4495,TW,TWN,Taiwan,25.03919983,121.5250015,Asia/Taipei
+violation,warning,deny,2669,CA,CAN,Canada,43.66669846,-79.41670227,America/Rainy_River
+violation,warning,deny,2584,NL,NLD,Netherlands,52.5,5.75,Europe/Amsterdam
+violation,warning,deny,2277,SG,SGP,Singapore,1.366700053,103.8000031,Asia/Singapore
+violation,warning,deny,2023,HK,HKG,Hong Kong,22.25,114.1667023,Asia/Hong_Kong
+violation,warning,deny,1786,BR,BRA,Brazil,-10,-55,
+violation,warning,deny,1364,ID,IDN,Indonesia,-6.174399853,106.8293991,Asia/Jakarta
+violation,warning,deny,1319,IT,ITA,Italy,42.83330154,12.83329964,Europe/Rome
+violation,warning,deny,1174,AU,AUS,Australia,-31.95219994,115.8613968,Australia/West
+violation,warning,deny,1103,AR,ARG,Argentina,-34.58750153,-58.67250061,America/Argentina/Buenos_Aires
+violation,warning,deny,943,UA,UKR,Ukraine,48.02610016,38.77230072,Europe/Zaporozhye
+violation,warning,deny,943,VN,VNM,Vietnam,21.0333004,105.8499985,Asia/Phnom_Penh
+violation,warning,deny,853,ES,ESP,Spain,38.86920166,-1.097100019,Europe/Madrid
+violation,warning,deny,845,FR,FRA,France,48.86669922,2.333300114,Europe/Paris
+violation,warning,deny,776,TR,TUR,Turkey,41.01860046,28.9647007,Asia/Istanbul
+violation,warning,deny,746,BE,BEL,Belgium,50.83330154,4,Europe/Brussels
+violation,warning,deny,632,PL,POL,Poland,52,20,Europe/Warsaw
+violation,warning,deny,617,SC,SYC,Seychelles,-4.583300114,55.66669846,Indian/Mahe
+violation,warning,deny,505,TH,THA,Thailand,15,100,Asia/Bangkok
+violation,warning,deny,500,SE,SWE,Sweden,59.33330154,18.04999924,Europe/Stockholm
+violation,warning,deny,451,IQ,IRQ,Iraq,34.14970016,42.38190079,Asia/Baghdad
+violation,warning,deny,382,PY,PRY,Paraguay,-25.31669998,-57.59999847,America/Asuncion
+violation,warning,deny,349,KE,KEN,Kenya,-1.283300042,36.81669998,Africa/Nairobi
+violation,warning,deny,344,EU,EU,Europe,47,8,
+violation,warning,deny,298,PK,PAK,Pakistan,30,70,Asia/Karachi
+violation,warning,deny,282,FI,FIN,Finland,60.17559814,24.93420029,Europe/Helsinki
+violation,warning,deny,248,BD,BGD,Bangladesh,24,90,Asia/Dhaka
+violation,warning,deny,239,NZ,NZL,New Zealand,-36.86669922,174.7666931,Pacific/Auckland
+violation,warning,deny,217,BY,BLR,Belarus,53.90000153,27.56669998,Europe/Minsk
+violation,warning,deny,216,OM,OMN,Oman,21,57,Asia/Muscat
+violation,warning,deny,211,KZ,KAZ,Kazakhstan,54.87530136,69.16280365,Asia/Aqtobe
+violation,warning,deny,198,CH,CHE,Switzerland,47,8,Europe/Zurich
+violation,warning,deny,197,AT,AUT,Austria,48.20000076,16.36669922,Europe/Vienna
+violation,warning,deny,165,BB,BRB,Barbados,13.13329983,-59.54999924,America/Barbados
+violation,warning,deny,163,PH,PHL,Philippines,14.60420036,120.9822006,Asia/Manila
+violation,warning,deny,160,MY,MYS,Malaysia,3.166699886,101.6999969,Asia/Kuala_Lumpur
+violation,warning,deny,142,PE,PER,Peru,-14.18859959,-75.71420288,America/Lima
+violation,warning,deny,138,ZA,ZAF,South Africa,-26.2052002,28.04980087,Africa/Johannesburg
+violation,warning,deny,85,RO,ROU,Romania,46,25,Europe/Bucharest
+violation,warning,deny,79,MX,MEX,Mexico,19.68330002,-100.5667038,America/Mexico_City
+violation,warning,deny,67,CO,COL,Colombia,4.649199963,-74.06279755,America/Bogota
+violation,warning,deny,62,MD,MDA,"Moldova, Republic of",47.00559998,28.85750008,Europe/Chisinau
+violation,warning,deny,51,SA,SAU,Saudi Arabia,25,45,Asia/Riyadh
+violation,warning,deny,49,BG,BGR,Bulgaria,43.34999847,27.20000076,Europe/Sofia
+violation,warning,deny,47,GE,GEO,Georgia,41.72499847,44.79079819,Asia/Tbilisi
+violation,warning,deny,41,IL,ISR,Israel,31.96419907,34.8044014,Asia/Jerusalem
+violation,warning,deny,35,CL,CHL,Chile,-33.45000076,-70.66670227,Chile/Continental
+violation,warning,deny,34,KG,KGZ,Kyrgyzstan,42.87310028,74.60030365,Asia/Bishkek
+violation,warning,deny,31,QA,QAT,Qatar,25.5,51.25,Asia/Qatar
+violation,warning,deny,28,EG,EGY,Egypt,30.04999924,31.25,Africa/Cairo
+violation,warning,deny,26,AE,ARE,United Arab Emirates,25.25819969,55.30469894,Asia/Dubai
+violation,warning,deny,24,KH,KHM,Cambodia,11.55000019,104.9167023,Asia/Phnom_Penh
+violation,warning,deny,24,LA,LAO,Lao People's Democratic Republic,17.9666996,102.5999985,Asia/Vientiane
+violation,warning,deny,24,MZ,MOZ,Mozambique,-25.96529961,32.58919907,Africa/Maputo
+violation,warning,deny,23,VE,VEN,Venezuela,8,-66,America/Caracas
+violation,warning,deny,20,SD,SDN,Sudan,15,30,Africa/Khartoum
+violation,warning,deny,20,RS,SRB,Serbia,45.81499863,19.63610077,Europe/Belgrade
+violation,warning,deny,20,LT,LTU,Lithuania,54.68330002,25.31669998,Europe/Vilnius
+violation,warning,deny,19,HR,HRV,Croatia,45.16669846,15.5,Europe/Zagreb
+violation,warning,deny,18,ET,ETH,Ethiopia,8,38,Africa/Addis_Ababa
+violation,warning,deny,16,EC,ECU,Ecuador,-0.216700003,-78.5,America/Guayaquil
+violation,warning,deny,15,CY,CYP,Cyprus,35,33,Asia/Nicosia
+violation,warning,deny,15,LV,LVA,Latvia,55.88330078,26.5333004,Europe/Riga
+violation,warning,deny,15,HU,HUN,Hungary,47.5,19.08329964,Europe/Budapest
+violation,warning,deny,14,MA,MAR,Morocco,33.59280014,-7.61920023,Africa/Casablanca
+violation,warning,deny,12,KW,KWT,Kuwait,29.36969948,47.97829819,Asia/Kuwait
+violation,warning,deny,11,NO,NOR,Norway,61.06669998,5.833300114,Europe/Oslo
+violation,warning,deny,10,AZ,AZE,Azerbaijan,40.5,47.5,Asia/Baku
+violation,warning,deny,10,DZ,DZA,Algeria,35.40420151,8.124199867,Africa/Algiers
+violation,warning,deny,9,BO,BOL,Bolivia,-16.5,-68.15000153,America/La_Paz
+violation,warning,deny,9,CZ,CZE,Czech Republic,49.20000076,16.63330078,Europe/Prague
+violation,warning,deny,9,SY,SYR,Syrian Arab Republic,35,38,Asia/Damascus
+violation,warning,deny,8,BH,BHR,Bahrain,26,50.54999924,Asia/Bahrain
+violation,warning,deny,8,PT,PRT,Portugal,37.13040161,-8.346199989,Europe/Lisbon
+violation,warning,deny,7,AM,ARM,Armenia,40,45,Asia/Yerevan
+violation,warning,deny,7,IE,IRL,Ireland,51.89860153,-8.495800018,Europe/Dublin
+violation,warning,deny,7,SK,SVK,Slovakia,48.66669846,19.5,Europe/Bratislava
+violation,warning,deny,7,GR,GRC,Greece,37.10559845,25.37639999,Europe/Athens
+violation,warning,deny,7,DK,DNK,Denmark,55.66669846,12.58329964,Europe/Copenhagen
+violation,warning,deny,6,NG,NGA,Nigeria,10,8,Africa/Lagos
+violation,warning,deny,5,TN,TUN,Tunisia,34,9,Africa/Tunis
+violation,warning,deny,3,JO,JOR,Jordan,31.95000076,35.93330002,Asia/Amman
+violation,warning,deny,3,MR,MRT,Mauritania,20,-12,Africa/Nouakchott
+violation,warning,deny,3,FJ,FJI,Fiji,-18.13330078,178.4167023,Pacific/Fiji
+violation,warning,deny,3,MC,MCO,Monaco,43.73329926,7.400000095,Europe/Monaco
+violation,warning,deny,2,GU,GUM,Guam,13.4442997,144.7863007,Pacific/Guam
+violation,warning,deny,2,SI,SVN,Slovenia,46,15,Europe/Ljubljana
+violation,warning,deny,2,AL,ALB,Albania,42.06750107,19.51309967,Europe/Tirane
+violation,warning,deny,2,PR,PRI,Puerto Rico,18.25,-66.5,America/Puerto_Rico
+violation,warning,deny,2,ME,MNE,Montenegro,42,19,Europe/Podgorica
+violation,warning,deny,2,AO,AGO,Angola,-8.836799622,13.23320007,Africa/Luanda
+violation,warning,deny,2,VC,VCT,Saint Vincent and the Grenadines,13.13329983,-61.21670151,America/St_Vincent
+violation,warning,deny,2,UY,URY,Uruguay,-34.85810089,-56.17079926,America/Montevideo
+violation,warning,deny,2,GI,GIB,Gibraltar,36.13330078,-5.349999905,Europe/Gibraltar
+violation,warning,deny,2,TT,TTO,Trinidad and Tobago,11.14999962,-60.78329849,America/Port_of_Spain
+violation,warning,deny,2,TZ,TZA,"Tanzania, United Republic of",-6,35,Africa/Dar_es_Salaam
+violation,warning,deny,1,A2,A2,Satellite Provider,0,0,
+violation,warning,deny,1,MK,MKD,Macedonia,42.13219833,21.71439934,Europe/Skopje
+violation,warning,deny,1,UZ,UZB,Uzbekistan,41,64,
+violation,warning,deny,1,LK,LKA,Sri Lanka,6.931900024,79.84780121,Asia/Colombo
+violation,warning,deny,1,GT,GTM,Guatemala,14.62110043,-90.52690125,America/Guatemala
+violation,warning,deny,1,A1,A1,Anonymous Proxy,0,0,
+violation,warning,deny,1,MU,MUS,Mauritius,-20.30940056,57.50080109,Indian/Mauritius
+violation,warning,deny,1,SV,SLV,El Salvador,13.74030018,-89.21309662,America/El_Salvador
+violation,warning,deny,1,HN,HND,Honduras,14.10000038,-87.21669769,America/Tegucigalpa

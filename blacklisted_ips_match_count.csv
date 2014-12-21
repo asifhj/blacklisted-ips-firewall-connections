@@ -1,0 +1,9 @@
+Source_IP,Subtype,Pri,Status_IP,Total hits,country_code,country_code3,country_name,city,region,region_name,postal_code,latitude,longitude,area_code,time_zone,metro_code
+117.27.138.135,violation,warning,deny,1103,CN,CHN,China,Fuzhou,07,Fujian,,26.061399459838867,119.30609893798828,0,Asia/Shanghai,0
+221.235.205.80,violation,warning,deny,352,CN,CHN,China,Wuhan,12,Hubei,,30.58009910583496,114.27339935302734,0,Asia/Shanghai,0
+60.214.233.220,violation,warning,deny,316,CN,CHN,China,Dongying,25,Shandong,,37.45640182495117,118.48560333251953,0,Asia/Shanghai,0
+89.248.171.125,violation,warning,deny,176,NL,NLD,Netherlands,None,,,,52.5,5.75,0,Europe/Amsterdam,0
+41.206.12.6,violation,warning,deny,3,NG,NGA,Nigeria,None,,,,10.0,8.0,0,Africa/Lagos,0
+66.189.135.166,violation,warning,deny,3,US,USA,United States,West Boylston,MA,Massachusetts,01583,42.363800048828125,-71.77490234375,508,America/New_York,506
+217.86.214.74,violation,warning,deny,1,DE,DEU,Germany,Frankfurt Am Main,05,Hessen,,50.11669921875,8.683300018310547,0,Europe/Berlin,0
+198.27.85.121,violation,warning,deny,1,CA,CAN,Canada,Montréal,QC,Quebec,h3a1k2,45.5,-73.58329772949219,0,America/Montreal,0

@@ -1,0 +1,1199 @@
+Subtype,Pri,Status_IP,"Total hits",country_code,country_code3,country_name,city_name,latitude,longitude,time_zone
+violation,warning,deny,374899,IN,IND,India,Bangalore,12.98330020904541,77.58329772949219,Asia/Calcutta
+violation,warning,deny,90685,GB,GBR,"United Kingdom",None,51.5,-0.12999999523162842,Europe/London
+violation,warning,deny,25246,CN,CHN,China,Guangzhou,23.11669921875,113.25,Asia/Chongqing
+violation,warning,deny,12767,CN,CHN,China,Wuhan,30.58009910583496,114.27339935302734,Asia/Shanghai
+violation,warning,deny,8249,US,USA,"United States","Berkeley Heights",40.67660140991211,-74.42019653320312,America/New_York
+violation,warning,deny,43720,CN,CHN,China,Beijing,39.92890167236328,116.38829803466797,Asia/Harbin
+violation,warning,deny,6922,IR,IRN,"Iran, Islamic Republic of",Gostar,35.46390151977539,48.87630081176758,Asia/Tehran
+violation,warning,deny,16537,US,USA,"United States","White Plains",41.02909851074219,-73.75800323486328,America/New_York
+violation,warning,deny,6627,NA,NA,NA,NA,NA,NA,NA
+violation,warning,deny,7955,CN,CHN,China,Zhengzhou,34.68360137939453,113.53250122070312,Asia/Shanghai
+violation,warning,deny,11503,CN,CHN,China,Nanchang,28.549999237060547,115.93329620361328,Asia/Shanghai
+violation,warning,deny,20335,CN,CHN,China,Nanjing,32.06169891357422,118.77780151367188,Asia/Shanghai
+violation,warning,deny,9485,CN,CHN,China,Hangzhou,30.29360008239746,120.1613998413086,Asia/Shanghai
+violation,warning,deny,6358,CN,CHN,China,Changchun,43.880001068115234,125.32279968261719,Asia/Harbin
+violation,warning,deny,1920,US,USA,"United States","Basking Ridge",40.67610168457031,-74.572998046875,America/New_York
+violation,warning,deny,16332,CN,CHN,China,Shanghai,31.04560089111328,121.39969635009766,Asia/Shanghai
+violation,warning,deny,2342,IN,IND,India,Thane,19.200000762939453,72.9666976928711,Asia/Calcutta
+violation,warning,deny,3786,CN,CHN,China,Chengdu,30.66670036315918,104.06670379638672,Asia/Chongqing
+violation,warning,deny,1426,CN,CHN,China,Yiwu,29.315099716186523,120.07679748535156,Asia/Shanghai
+violation,warning,deny,6138,CN,CHN,China,Hefei,31.86389923095703,117.28079986572266,Asia/Shanghai
+violation,warning,deny,2658,TW,TWN,Taiwan,Taipei,25.039199829101562,121.5250015258789,Asia/Taipei
+violation,warning,deny,1665,CN,CHN,China,Foshan,23.02680015563965,113.13150024414062,Asia/Chongqing
+violation,warning,deny,3247,CN,CHN,China,Fuzhou,26.061399459838867,119.30609893798828,Asia/Shanghai
+violation,warning,deny,2276,CN,CHN,China,Shenyang,41.792198181152344,123.43280029296875,Asia/Harbin
+violation,warning,deny,2167,CN,CHN,China,Ürümqi,43.80099868774414,87.60050201416016,Asia/Urumqi
+violation,warning,deny,2368,CN,CHN,China,Baotou,40.652198791503906,109.82219696044922,Asia/Harbin
+violation,warning,deny,2173,CN,CHN,China,Qingdao,36.09859848022461,120.37190246582031,Asia/Shanghai
+violation,warning,deny,3830,US,USA,"United States",Sunnyvale,37.38869857788086,-122.018798828125,America/Los_Angeles
+violation,warning,deny,2043,US,USA,"United States",Oakland,37.80440139770508,-122.27079772949219,America/Los_Angeles
+violation,warning,deny,3653,JP,JPN,Japan,Tokyo,35.685001373291016,139.75140380859375,Asia/Tokyo
+violation,warning,deny,1431,CN,CHN,China,Chongqing,29.56279945373535,106.55280303955078,Asia/Chongqing
+violation,warning,deny,2154,CN,CHN,China,Hebei,39.88970184326172,115.2750015258789,Asia/Shanghai
+violation,warning,deny,1376,US,USA,"United States","Oak Brook",41.83720016479492,-87.9613037109375,America/Chicago
+violation,warning,deny,755,GB,GBR,"United Kingdom",Warwick,52.28329849243164,-1.583299994468689,Europe/London
+violation,warning,deny,4828,CN,CHN,China,Jinan,36.66830062866211,116.99720001220703,Asia/Shanghai
+violation,warning,deny,4058,US,USA,"United States",Walnut,34.01150131225586,-117.85350036621094,America/Los_Angeles
+violation,warning,deny,1152,CN,CHN,China,Guiyang,26.58329963684082,106.7166976928711,Asia/Chongqing
+violation,warning,deny,1856,CN,CHN,China,Tianjin,39.1422004699707,117.17669677734375,Asia/Shanghai
+violation,warning,deny,2676,IN,IND,India,Mumbai,18.975000381469727,72.82579803466797,Asia/Calcutta
+violation,warning,deny,785,IR,IRN,"Iran, Islamic Republic of",Razavi,34.29029846191406,58.46500015258789,Asia/Tehran
+violation,warning,deny,1841,CA,CAN,Canada,Toronto,43.66669845581055,-79.41670227050781,America/Rainy_River
+violation,warning,deny,703,CN,CHN,China,Haikou,20.045799255371094,110.3416976928711,Asia/Chongqing
+violation,warning,deny,691,DE,DEU,Germany,Roth,49.244998931884766,11.091099739074707,Europe/Berlin
+violation,warning,deny,680,CN,CHN,China,Taizhou,32.490699768066406,119.90809631347656,Asia/Shanghai
+violation,warning,deny,1921,US,USA,"United States",Miami,25.833799362182617,-80.30169677734375,America/New_York
+violation,warning,deny,1071,AR,ARG,Argentina,"Buenos Aires",-34.587501525878906,-58.67250061035156,America/Argentina/Buenos_Aires
+violation,warning,deny,4475,US,USA,"United States",Atlanta,33.7515983581543,-84.3915023803711,America/New_York
+violation,warning,deny,876,CN,CHN,China,Kunming,25.03890037536621,102.71829986572266,Asia/Chongqing
+violation,warning,deny,481,US,USA,"United States",Irvine,33.689701080322266,-117.8501968383789,America/Los_Angeles
+violation,warning,deny,474,US,USA,"United States",Hudson,42.37009811401367,-92.45999908447266,America/Chicago
+violation,warning,deny,445,DE,DEU,Germany,Martinsried,48.099998474121094,11.449999809265137,Europe/Berlin
+violation,warning,deny,541,US,USA,"United States",Norcross,33.941200256347656,-84.2135009765625,America/New_York
+violation,warning,deny,1086,US,USA,"United States","Kansas City",39.1068000793457,-94.56600189208984,America/Chicago
+violation,warning,deny,387,US,USA,"United States",Clifton,40.83259963989258,-74.13069915771484,America/New_York
+violation,warning,deny,389,US,USA,"United States","Redwood City",37.49140167236328,-122.21099853515625,America/Los_Angeles
+violation,warning,deny,385,US,USA,"United States",Cheyenne,41.32740020751953,-104.66639709472656,America/Denver
+violation,warning,deny,707,CA,CAN,Canada,Montréal,45.5,-73.58329772949219,America/Montreal
+violation,warning,deny,382,PY,PRY,Paraguay,"Fernando De La Mora",-25.316699981689453,-57.599998474121094,America/Asuncion
+violation,warning,deny,379,US,USA,"United States","Hacienda Heights",34.00239944458008,-117.97570037841797,America/Los_Angeles
+violation,warning,deny,723,US,USA,"United States",Renton,47.4828987121582,-122.21710205078125,America/Los_Angeles
+violation,warning,deny,376,CN,CHN,China,Shaoxing,30.01099967956543,120.57150268554688,Asia/Shanghai
+violation,warning,deny,414,CN,CHN,China,Shenzhen,22.533300399780273,114.13330078125,Asia/Chongqing
+violation,warning,deny,1017,CN,CHN,China,Nanning,22.816699981689453,108.31670379638672,Asia/Chongqing
+violation,warning,deny,371,TW,TWN,Taiwan,Yünlin,23.709199905395508,120.54219818115234,Asia/Taipei
+violation,warning,deny,379,JP,JPN,Japan,Toyonaka,34.78329849243164,135.46670532226562,Asia/Tokyo
+violation,warning,deny,375,CN,CHN,China,Wuxi,31.568899154663086,120.2885971069336,Asia/Shanghai
+violation,warning,deny,368,US,USA,"United States","Los Altos",37.3494987487793,-122.11630249023438,America/Los_Angeles
+violation,warning,deny,372,CN,CHN,China,Xining,36.61669921875,101.7667007446289,Asia/Chongqing
+violation,warning,deny,362,CN,CHN,China,Jiangyin,31.905099868774414,120.26850128173828,Asia/Shanghai
+violation,warning,deny,366,AU,AUS,Australia,Perth,-31.952199935913086,115.86139678955078,Australia/West
+violation,warning,deny,2986,KR,KOR,"Korea, Republic of",Seoul,37.5984992980957,126.97830200195312,Asia/Seoul
+violation,warning,deny,1178,ID,IDN,Indonesia,Jakarta,-6.1743998527526855,106.82939910888672,Asia/Jakarta
+violation,warning,deny,358,US,USA,"United States","West Des Moines",41.563499450683594,-93.7842025756836,America/Chicago
+violation,warning,deny,356,CN,CHN,China,Shangxi,26.908700942993164,115.76349639892578,Asia/Shanghai
+violation,warning,deny,346,US,USA,"United States",Belhaven,35.61690139770508,-76.48500061035156,America/New_York
+violation,warning,deny,914,CN,CHN,China,Xian,34.25830078125,108.92859649658203,Asia/Chongqing
+violation,warning,deny,341,KE,KEN,Kenya,Nairobi,-1.2833000421524048,36.81669998168945,Africa/Nairobi
+violation,warning,deny,368,US,USA,"United States","San Antonio",29.48889923095703,-98.39869689941406,America/Chicago
+violation,warning,deny,912,VN,VNM,Vietnam,Hanoi,21.033300399780273,105.8499984741211,Asia/Phnom_Penh
+violation,warning,deny,327,CN,CHN,China,Chengxiang,31.447799682617188,121.09390258789062,Asia/Shanghai
+violation,warning,deny,757,CN,CHN,China,Harbin,45.75,126.6500015258789,Asia/Harbin
+violation,warning,deny,325,FR,FRA,France,Paris,48.86669921875,2.3333001136779785,Europe/Paris
+violation,warning,deny,720,US,USA,"United States","Huntington Beach",33.660301208496094,-117.99919891357422,America/Los_Angeles
+violation,warning,deny,320,CN,CHN,China,Dongying,37.45640182495117,118.48560333251953,Asia/Shanghai
+violation,warning,deny,312,CN,CHN,China,Suqian,33.94919967651367,118.2957992553711,Asia/Shanghai
+violation,warning,deny,308,CN,CHN,China,Putian,24.98780059814453,118.49829864501953,Asia/Shanghai
+violation,warning,deny,305,CN,CHN,China,Shiyan,32.647499084472656,110.7780990600586,Asia/Shanghai
+violation,warning,deny,1362,US,USA,"United States",Chicago,41.88240051269531,-87.63760375976562,America/Chicago
+violation,warning,deny,1219,IN,IND,India,Chennai,13.08329963684082,80.2833023071289,Asia/Calcutta
+violation,warning,deny,953,US,USA,"United States","Clarks Summit",41.44860076904297,-75.72799682617188,America/New_York
+violation,warning,deny,302,US,USA,"United States",Bergen,43.081199645996094,-78.01499938964844,America/New_York
+violation,warning,deny,296,ES,ESP,Spain,Almansa,38.86920166015625,-1.097100019454956,Europe/Madrid
+violation,warning,deny,1997,US,USA,"United States","San Jose",37.42499923706055,-121.94599914550781,America/Los_Angeles
+violation,warning,deny,291,IN,IND,India,Kanpur,26.466699600219727,80.3499984741211,Asia/Calcutta
+violation,warning,deny,1556,US,USA,"United States",Tempe,33.435699462890625,-111.91709899902344,America/Phoenix
+violation,warning,deny,287,US,USA,"United States",Lancaster,40.075401306152344,-76.31890106201172,America/New_York
+violation,warning,deny,296,US,USA,"United States","Fort Lauderdale",26.122299194335938,-80.14340209960938,America/New_York
+violation,warning,deny,926,IN,IND,India,"New Delhi",28.600000381469727,77.19999694824219,Asia/Calcutta
+violation,warning,deny,310,CN,CHN,China,Taiyuan,37.726898193359375,112.4708023071289,Asia/Chongqing
+violation,warning,deny,1127,US,USA,"United States","New York",40.714298248291016,-74.00599670410156,America/New_York
+violation,warning,deny,503,US,USA,"United States",Fremont,37.56700134277344,-121.98290252685547,America/Los_Angeles
+violation,warning,deny,258,FI,FIN,Finland,Helsinki,60.17559814453125,24.934200286865234,Europe/Helsinki
+violation,warning,deny,254,US,USA,"United States","Plymouth Meeting",40.11579895019531,-75.2842025756836,America/New_York
+violation,warning,deny,261,US,USA,"United States",Minneapolis,44.972900390625,-93.28730010986328,America/Chicago
+violation,warning,deny,255,US,USA,"United States","Overland Park",38.89979934692383,-94.7052001953125,America/Chicago
+violation,warning,deny,251,US,USA,"United States",Nashville,36.16590118408203,-86.7844009399414,America/Chicago
+violation,warning,deny,251,US,USA,"United States",Marietta,33.952598571777344,-84.54989624023438,America/New_York
+violation,warning,deny,239,US,USA,"United States",Charlotte,35.22710037231445,-80.84310150146484,America/New_York
+violation,warning,deny,814,US,USA,"United States",Seattle,47.606201171875,-122.33209991455078,America/Los_Angeles
+violation,warning,deny,462,CN,CHN,China,Yinchuan,38.468101501464844,106.27310180664062,Asia/Chongqing
+violation,warning,deny,224,US,USA,"United States",Ocala,29.020000457763672,-82.19020080566406,America/New_York
+violation,warning,deny,1139,TW,TWN,Taiwan,Kaohsiung,22.63330078125,120.3499984741211,Asia/Taipei
+violation,warning,deny,2250,RU,RUS,"Russian Federation",Volga,57.95159912109375,38.38779830932617,Europe/Moscow
+violation,warning,deny,770,US,USA,"United States",Dallas,32.8120002746582,-96.81430053710938,America/Chicago
+violation,warning,deny,206,IN,IND,India,Salem,11.649999618530273,78.16670227050781,Asia/Calcutta
+violation,warning,deny,451,IQ,IRQ,Iraq,Sulaymaniyah,34.14970016479492,42.381900787353516,Asia/Baghdad
+violation,warning,deny,207,BR,BRA,Brazil,Uberlândia,-18.91670036315918,-48.29999923706055,America/Sao_Paulo
+violation,warning,deny,209,US,USA,"United States",Richmond,37.49599838256836,-77.47119903564453,America/New_York
+violation,warning,deny,748,HK,HKG,"Hong Kong","Hong Kong",22.283300399780273,114.1500015258789,Asia/Hong_Kong
+violation,warning,deny,187,CN,CHN,China,Lanzhou,36.056400299072266,103.79219818115234,Asia/Chongqing
+violation,warning,deny,932,SG,SGP,Singapore,Singapore,1.2930999994277954,103.85579681396484,Asia/Singapore
+violation,warning,deny,165,BB,BRB,Barbados,"Walkers Terrace",13.133299827575684,-59.54999923706055,America/Barbados
+violation,warning,deny,154,US,USA,"United States","Salt Lake City",40.819400787353516,-111.94629669189453,America/Denver
+violation,warning,deny,659,RU,RUS,"Russian Federation",Moscow,55.752201080322266,37.6156005859375,Europe/Moscow
+violation,warning,deny,929,DE,DEU,Germany,Frankfurt,50.11669921875,8.683300018310547,Europe/Berlin
+violation,warning,deny,153,US,USA,"United States","Vernon Hills",42.23249816894531,-87.9634017944336,America/Chicago
+violation,warning,deny,136,CN,CHN,China,Changji,44.016700744628906,87.31670379638672,Asia/Urumqi
+violation,warning,deny,674,TR,TUR,Turkey,Istanbul,41.01860046386719,28.96470069885254,Asia/Istanbul
+violation,warning,deny,132,IN,IND,India,Nagpur,21.149999618530273,79.0999984741211,Asia/Calcutta
+violation,warning,deny,257,RU,RUS,"Russian Federation","Saint Petersburg",59.89440155029297,30.26420021057129,Europe/Moscow
+violation,warning,deny,136,IN,IND,India,Pune,18.533300399780273,73.86669921875,Asia/Calcutta
+violation,warning,deny,733,GB,GBR,"United Kingdom",London,51.514198303222656,-0.09309999644756317,Europe/London
+violation,warning,deny,565,US,USA,"United States",Redmond,47.67399978637695,-122.12149810791016,America/Los_Angeles
+violation,warning,deny,125,RU,RUS,"Russian Federation",Voronezh,51.672000885009766,39.18429946899414,Europe/Moscow
+violation,warning,deny,239,NZ,NZL,"New Zealand",Auckland,-36.86669921875,174.76669311523438,Pacific/Auckland
+violation,warning,deny,114,US,USA,"United States","Morgan City",29.699399948120117,-91.20680236816406,America/Chicago
+violation,warning,deny,194,AT,AUT,Austria,Vienna,48.20000076293945,16.36669921875,Europe/Vienna
+violation,warning,deny,120,US,USA,"United States",Philadelphia,39.94940185546875,-75.14569854736328,America/New_York
+violation,warning,deny,485,IT,ITA,Italy,Palermo,38.11669921875,13.366700172424316,Europe/Rome
+violation,warning,deny,248,US,USA,"United States","Saddle Brook",40.902801513671875,-74.09600067138672,America/New_York
+violation,warning,deny,128,PE,PER,Peru,Santiago,-14.188599586486816,-75.71420288085938,America/Lima
+violation,warning,deny,507,BR,BRA,Brazil,"São Paulo",-23.47330093383789,-46.66579818725586,America/Sao_Paulo
+violation,warning,deny,94,US,USA,"United States",Northbrook,42.11970138549805,-87.84449768066406,America/Chicago
+violation,warning,deny,943,US,USA,"United States","Los Angeles",34.053001403808594,-118.26419830322266,America/Los_Angeles
+violation,warning,deny,93,UA,UKR,Ukraine,Snizhne,48.026100158691406,38.772300720214844,Europe/Zaporozhye
+violation,warning,deny,92,CN,CHN,China,Henan,27.845600128173828,120.4927978515625,Asia/Shanghai
+violation,warning,deny,227,US,USA,"United States",Pittsburg,38.00510025024414,-121.83869934082031,America/Los_Angeles
+violation,warning,deny,163,US,USA,"United States",Aurora,39.73970031738281,-104.79399871826172,America/Denver
+violation,warning,deny,111,RU,RUS,"Russian Federation",Ulan-ude,51.82609939575195,107.60980224609375,Asia/Irkutsk
+violation,warning,deny,75,US,USA,"United States",Wheeling,42.12860107421875,-87.92369842529297,America/Chicago
+violation,warning,deny,76,KZ,KAZ,Kazakhstan,Petropavlovsk,54.875301361083984,69.16280364990234,Asia/Aqtobe
+violation,warning,deny,90,RU,RUS,"Russian Federation",Omsk,55.0,73.4000015258789,Asia/Omsk
+violation,warning,deny,111,CN,CHN,China,Xiamen,24.479799270629883,118.08190155029297,Asia/Shanghai
+violation,warning,deny,512,CN,CHN,China,Jincheng,39.55910110473633,113.18550109863281,Asia/Chongqing
+violation,warning,deny,129,US,USA,"United States",Kent,47.40840148925781,-122.1957015991211,America/Los_Angeles
+violation,warning,deny,132,BE,BEL,Belgium,Brussels,50.83330154418945,4.3333001136779785,Europe/Brussels
+violation,warning,deny,443,US,USA,"United States",Bothell,47.84349822998047,-122.1957015991211,America/Los_Angeles
+violation,warning,deny,109,IN,IND,India,Hyderabad,17.37529945373535,78.47440338134766,Asia/Calcutta
+violation,warning,deny,410,US,USA,"United States",Cambridge,42.36259841918945,-71.08429718017578,America/New_York
+violation,warning,deny,125,US,USA,"United States",Tampa,27.957799911499023,-82.46219635009766,America/New_York
+violation,warning,deny,581,US,USA,"United States",Ashburn,39.043701171875,-77.48750305175781,America/New_York
+violation,warning,deny,63,BR,BRA,Brazil,Goiânia,-16.66670036315918,-49.266700744628906,America/Sao_Paulo
+violation,warning,deny,54,RU,RUS,"Russian Federation",Obninsk,55.0968017578125,36.61009979248047,Europe/Moscow
+violation,warning,deny,53,PL,POL,Poland,Legnica,51.21009826660156,16.16189956665039,Europe/Warsaw
+violation,warning,deny,53,US,USA,"United States",Orange,33.81380081176758,-117.79859924316406,America/Los_Angeles
+violation,warning,deny,468,SE,SWE,Sweden,Stockholm,59.33330154418945,18.049999237060547,Europe/Stockholm
+violation,warning,deny,599,AU,AUS,Australia,Sydney,-33.86149978637695,151.20550537109375,Australia/NSW
+violation,warning,deny,59,UA,UKR,Ukraine,Nikolaev,46.96590042114258,31.997400283813477,Europe/Zaporozhye
+violation,warning,deny,50,UA,UKR,Ukraine,Mega,48.13330078125,25.433300018310547,Europe/Uzhgorod
+violation,warning,deny,66,RU,RUS,"Russian Federation",Ozërsk,55.75559997558594,60.70280075073242,Asia/Yekaterinburg
+violation,warning,deny,62,RU,RUS,"Russian Federation",Novomoskovsk,54.010501861572266,38.28459930419922,Europe/Moscow
+violation,warning,deny,62,MD,MDA,"Moldova, Republic of",Chisinau,47.00559997558594,28.857500076293945,Europe/Chisinau
+violation,warning,deny,45,US,USA,"United States","Missouri City",29.618600845336914,-95.5376968383789,America/Chicago
+violation,warning,deny,88,US,USA,"United States",Chandler,33.24789810180664,-111.78949737548828,America/Phoenix
+violation,warning,deny,191,US,USA,"United States",Goleta,34.50210189819336,-120.12870025634766,America/Los_Angeles
+violation,warning,deny,42,US,USA,"United States",Lexington,42.44279861450195,-71.23169708251953,America/New_York
+violation,warning,deny,47,HK,HKG,"Hong Kong","Quarry Bay",22.283300399780273,114.2166976928711,Asia/Hong_Kong
+violation,warning,deny,40,US,USA,"United States",Wayne,40.0432014465332,-75.35769653320312,America/New_York
+violation,warning,deny,56,KZ,KAZ,Kazakhstan,Almaty,43.25,76.94999694824219,Asia/Almaty
+violation,warning,deny,36,UA,UKR,Ukraine,Antratsit,48.1150016784668,39.09130096435547,Europe/Zaporozhye
+violation,warning,deny,73,BY,BLR,Belarus,Minsk,53.900001525878906,27.566699981689453,Europe/Minsk
+violation,warning,deny,75,RU,RUS,"Russian Federation",Miass,55.04499816894531,60.108299255371094,Asia/Yekaterinburg
+violation,warning,deny,162,US,USA,"United States",Denver,39.752498626708984,-104.99949645996094,America/Denver
+violation,warning,deny,32,KG,KGZ,Kyrgyzstan,Bishkek,42.87310028076172,74.60030364990234,Asia/Bishkek
+violation,warning,deny,30,CN,CHN,China,Qufu,35.59669876098633,116.99109649658203,Asia/Shanghai
+violation,warning,deny,29,US,USA,"United States","San Francisco",37.77579879760742,-122.41280364990234,America/Los_Angeles
+violation,warning,deny,29,DE,DEU,Germany,Esslingen,48.75,9.300000190734863,Europe/Berlin
+violation,warning,deny,34,RU,RUS,"Russian Federation",Ufa,54.78519821166992,56.04560089111328,Europe/Samara
+violation,warning,deny,28,RU,RUS,"Russian Federation",Khorlovo,55.332698822021484,38.8135986328125,Europe/Moscow
+violation,warning,deny,58,US,USA,"United States",Cockeysville,39.491798400878906,-76.63279724121094,America/New_York
+violation,warning,deny,30,RU,RUS,"Russian Federation",Chelyabinsk,55.15439987182617,61.4296989440918,Asia/Yekaterinburg
+violation,warning,deny,488,KR,KOR,"Korea, Republic of",Ilsan,38.18330001831055,127.81670379638672,Asia/Seoul
+violation,warning,deny,29,KZ,KAZ,Kazakhstan,Astana,51.18109893798828,71.42780303955078,Asia/Qyzylorda
+violation,warning,deny,27,US,USA,"United States",Hightstown,40.24850082397461,-74.53150177001953,America/New_York
+violation,warning,deny,26,BG,BGR,Bulgaria,"Novi Pazar",43.349998474121094,27.200000762939453,Europe/Sofia
+violation,warning,deny,29,US,USA,"United States",Secaucus,40.78010177612305,-74.06330108642578,America/New_York
+violation,warning,deny,85,ZA,ZAF,"South Africa",Johannesburg,-26.2052001953125,28.049800872802734,Africa/Johannesburg
+violation,warning,deny,507,NL,NLD,Netherlands,Amsterdam,52.349998474121094,4.9166998863220215,Europe/Amsterdam
+violation,warning,deny,25,IR,IRN,"Iran, Islamic Republic of",Kaman,36.46390151977539,50.13800048828125,Asia/Tehran
+violation,warning,deny,31,RU,RUS,"Russian Federation",Tver,56.86050033569336,35.875999450683594,Europe/Moscow
+violation,warning,deny,24,SE,SWE,Sweden,Karlskoga,59.33330154418945,14.51669979095459,Europe/Stockholm
+violation,warning,deny,27,PH,PHL,Philippines,Manila,14.60420036315918,120.9822006225586,Asia/Manila
+violation,warning,deny,24,LA,LAO,"Lao People's Democratic Republic",Vientiane,17.966699600219727,102.5999984741211,Asia/Vientiane
+violation,warning,deny,24,PH,PHL,Philippines,Sucat,14.46310043334961,121.05470275878906,Asia/Manila
+violation,warning,deny,24,MZ,MOZ,Mozambique,Maputo,-25.965299606323242,32.58919906616211,Africa/Maputo
+violation,warning,deny,49,BY,BLR,Belarus,Mogilëv,53.91680145263672,30.344900131225586,Europe/Minsk
+violation,warning,deny,42,UA,UKR,Ukraine,Odessa,46.46390151977539,30.73859977722168,Europe/Simferopol
+violation,warning,deny,22,US,USA,"United States",Duvall,47.735599517822266,-121.93440246582031,America/Los_Angeles
+violation,warning,deny,607,JP,JPN,Japan,Osaka,34.6864013671875,135.52000427246094,Asia/Tokyo
+violation,warning,deny,22,US,USA,"United States",Portland,45.40230178833008,-122.61470031738281,America/Los_Angeles
+violation,warning,deny,40,RU,RUS,"Russian Federation",Saransk,54.183799743652344,45.17490005493164,Europe/Samara
+violation,warning,deny,35,UA,UKR,Ukraine,Zaporizhzhya,47.822898864746094,35.19029998779297,Europe/Zaporozhye
+violation,warning,deny,36,RU,RUS,"Russian Federation",Vladivostok,43.12810134887695,131.90109252929688,Asia/Vladivostok
+violation,warning,deny,125,UA,UKR,Ukraine,Kiev,50.43330001831055,30.516700744628906,
+violation,warning,deny,21,RU,RUS,"Russian Federation",Ivanovo,56.99720001220703,40.97140121459961,Europe/Moscow
+violation,warning,deny,27,UA,UKR,Ukraine,Kharkov,49.98080062866211,36.25270080566406,Europe/Zaporozhye
+violation,warning,deny,38,US,USA,"United States","Cedar Rapids",41.97880172729492,-91.66470336914062,America/Chicago
+violation,warning,deny,62,CO,COL,Colombia,Bogotá,4.649199962615967,-74.06279754638672,America/Bogota
+violation,warning,deny,20,RU,RUS,"Russian Federation",Berdsk,54.75510025024414,83.0967025756836,Asia/Novosibirsk
+violation,warning,deny,29,IR,IRN,"Iran, Islamic Republic of",Esfahan,32.65719985961914,51.6776008605957,Asia/Tehran
+violation,warning,deny,21,US,USA,"United States",Edison,40.5182991027832,-74.39689636230469,America/New_York
+violation,warning,deny,20,US,USA,"United States",Wrentham,42.054298400878906,-71.37149810791016,America/New_York
+violation,warning,deny,26,US,USA,"United States",Englewood,39.62369918823242,-104.8738021850586,America/Denver
+violation,warning,deny,19,US,USA,"United States","Oak Lawn",41.70909881591797,-87.75959777832031,America/Chicago
+violation,warning,deny,19,AU,AUS,Australia,"Mount Eliza",-38.18330001831055,145.0832977294922,Australia/Victoria
+violation,warning,deny,29,GE,GEO,Georgia,Tbilisi,41.724998474121094,44.79079818725586,Asia/Tbilisi
+violation,warning,deny,20,LT,LTU,Lithuania,Vilnius,54.68330001831055,25.316699981689453,Europe/Vilnius
+violation,warning,deny,19,RU,RUS,"Russian Federation",Serov,59.483299255371094,60.516700744628906,Asia/Yekaterinburg
+violation,warning,deny,49,RU,RUS,"Russian Federation",Samara,53.18349838256836,50.11819839477539,Europe/Samara
+violation,warning,deny,18,AU,AUS,Australia,Hawthorn,-37.83330154418945,145.03329467773438,Australia/Victoria
+violation,warning,deny,17,RU,RUS,"Russian Federation",Krasnoznamensk,55.59939956665039,37.03860092163086,Europe/Moscow
+violation,warning,deny,27,PL,POL,Poland,Oddzial,52.012901306152344,20.647499084472656,Europe/Warsaw
+violation,warning,deny,17,UA,UKR,Ukraine,Chernigov,51.50550079345703,31.284900665283203,Europe/Kiev
+violation,warning,deny,25,PH,PHL,Philippines,Quezon,15.551199913024902,120.814697265625,Asia/Manila
+violation,warning,deny,38,UA,UKR,Ukraine,Donetsk,47.99169921875,37.775901794433594,Europe/Zaporozhye
+violation,warning,deny,17,US,USA,"United States",Lenoir,35.972599029541016,-81.55130004882812,America/New_York
+violation,warning,deny,46,MY,MYS,Malaysia,"Kuala Lumpur",3.1666998863220215,101.69999694824219,Asia/Kuala_Lumpur
+violation,warning,deny,19,IT,ITA,Italy,Milan,45.46670150756836,9.199999809265137,Europe/Rome
+violation,warning,deny,16,DE,DEU,Germany,Maulburg,47.650001525878906,7.783299922943115,Europe/Berlin
+violation,warning,deny,92,OM,OMN,Oman,Muscat,23.613300323486328,58.593299865722656,Asia/Muscat
+violation,warning,deny,16,CH,CHE,Switzerland,Zurich,47.36669921875,8.550000190734863,Europe/Zurich
+violation,warning,deny,19,MY,MYS,Malaysia,"Shah Alam",3.0833001136779785,101.5333023071289,Asia/Kuala_Lumpur
+violation,warning,deny,15,US,USA,"United States",Newark,39.615501403808594,-75.70439910888672,America/New_York
+violation,warning,deny,15,IL,ISR,Israel,"Rishon Le Zion",31.96419906616211,34.80440139770508,Asia/Jerusalem
+violation,warning,deny,15,HK,HKG,"Hong Kong",Aberdeen,22.25,114.1500015258789,Asia/Hong_Kong
+violation,warning,deny,15,MY,MYS,Malaysia,"George Town",5.411200046539307,100.33540344238281,Asia/Kuala_Lumpur
+violation,warning,deny,29,IN,IND,India,Coimbatore,10.992500305175781,76.9614028930664,Asia/Calcutta
+violation,warning,deny,14,RS,SRB,Serbia,"Backa Topola",45.814998626708984,19.63610076904297,Europe/Belgrade
+violation,warning,deny,14,RU,RUS,"Russian Federation",Astrakhan,46.349700927734375,48.04079818725586,Europe/Volgograd
+violation,warning,deny,15,RU,RUS,"Russian Federation",Ulyanovsk,54.32820129394531,48.386600494384766,Europe/Samara
+violation,warning,deny,14,LV,LVA,Latvia,Daugavpils,55.88330078125,26.533300399780273,Europe/Riga
+violation,warning,deny,30,CN,CHN,China,Dalian,38.912200927734375,121.60220336914062,Asia/Harbin
+violation,warning,deny,14,HK,HKG,"Hong Kong","Tai Kok Tsui",22.316699981689453,114.16670227050781,Asia/Hong_Kong
+violation,warning,deny,100,TH,THA,Thailand,Bangkok,13.753999710083008,100.50140380859375,Asia/Bangkok
+violation,warning,deny,30,RU,RUS,"Russian Federation",Krasnoyarsk,56.00910186767578,92.86280059814453,Asia/Krasnoyarsk
+violation,warning,deny,13,US,USA,"United States",Ruston,32.515098571777344,-92.6261978149414,America/Chicago
+violation,warning,deny,13,ZA,ZAF,"South Africa",Durban,-29.857900619506836,31.029199600219727,Africa/Johannesburg
+violation,warning,deny,13,IN,IND,India,Ghaziabad,28.66670036315918,77.43329620361328,Asia/Calcutta
+violation,warning,deny,16,RU,RUS,"Russian Federation",Rostov-on-don,47.231300354003906,39.72330093383789,Europe/Volgograd
+violation,warning,deny,13,RU,RUS,"Russian Federation",Biysk,52.536399841308594,85.20719909667969,Asia/Novosibirsk
+violation,warning,deny,13,RO,ROU,Romania,Giurgiu,43.88330078125,25.966699600219727,Europe/Bucharest
+violation,warning,deny,13,BR,BRA,Brazil,"João Pinheiro",-17.75,-46.16669845581055,America/Sao_Paulo
+violation,warning,deny,13,UA,UKR,Ukraine,Beregovo,48.20560073852539,22.64419937133789,Europe/Uzhgorod
+violation,warning,deny,13,RU,RUS,"Russian Federation",Korolëv,55.91419982910156,37.825599670410156,Europe/Moscow
+violation,warning,deny,13,RU,RUS,"Russian Federation",Agidel,55.90769958496094,53.93550109863281,Europe/Samara
+violation,warning,deny,18,RO,ROU,Romania,Bucharest,44.43330001831055,26.100000381469727,Europe/Bucharest
+violation,warning,deny,15,BR,BRA,Brazil,Curitiba,-25.41670036315918,-49.25,America/Sao_Paulo
+violation,warning,deny,13,RU,RUS,"Russian Federation","Velikiy Ustyug",60.76190185546875,46.313499450683594,Europe/Moscow
+violation,warning,deny,16,ZA,ZAF,"South Africa",Pretoria,-25.706899642944336,28.229400634765625,Africa/Johannesburg
+violation,warning,deny,24,RU,RUS,"Russian Federation",Ryazan,54.62689971923828,39.69160079956055,Europe/Moscow
+violation,warning,deny,13,UA,UKR,Ukraine,Alchevsk,48.46889877319336,38.81669998168945,Europe/Zaporozhye
+violation,warning,deny,15,RU,RUS,"Russian Federation",Krasnodar,45.04880142211914,38.97249984741211,Europe/Volgograd
+violation,warning,deny,16,RU,RUS,"Russian Federation",Novokuznetsk,53.755699157714844,87.10990142822266,Asia/Novokuznetsk
+violation,warning,deny,21,US,USA,"United States",Herndon,38.984100341796875,-77.38269805908203,America/New_York
+violation,warning,deny,15,RU,RUS,"Russian Federation",Khabarovsk,48.48080062866211,135.09280395507812,Asia/Vladivostok
+violation,warning,deny,12,FR,FRA,France,Gandrange,49.27069854736328,6.122499942779541,Europe/Paris
+violation,warning,deny,12,RU,RUS,"Russian Federation",Petrozavodsk,61.79610061645508,34.349300384521484,Europe/Moscow
+violation,warning,deny,12,UA,UKR,Ukraine,Krasnodon,48.292301177978516,39.737300872802734,Europe/Zaporozhye
+violation,warning,deny,12,RU,RUS,"Russian Federation",Kineshma,57.4390983581543,42.12889862060547,Europe/Moscow
+violation,warning,deny,20,RU,RUS,"Russian Federation",Volgograd,48.719398498535156,44.501800537109375,Europe/Volgograd
+violation,warning,deny,12,US,USA,"United States","Rock Springs",41.587501525878906,-109.2029037475586,America/Denver
+violation,warning,deny,13,CN,CHN,China,Yantai,37.53329849243164,121.4000015258789,Asia/Shanghai
+violation,warning,deny,16,BR,BRA,Brazil,Salvador,-12.98330020904541,-38.516700744628906,America/Bahia
+violation,warning,deny,15,RU,RUS,"Russian Federation",Kazan,55.788700103759766,49.122100830078125,Europe/Samara
+violation,warning,deny,12,PL,POL,Poland,Malbork,54.0359992980957,19.034500122070312,Europe/Warsaw
+violation,warning,deny,40,KR,KOR,"Korea, Republic of",Busan,35.10279846191406,129.04029846191406,Asia/Seoul
+violation,warning,deny,13,RU,RUS,"Russian Federation",Tuapse,44.10530090332031,39.0802001953125,Europe/Volgograd
+violation,warning,deny,16,KZ,KAZ,Kazakhstan,Kokshetau,53.27750015258789,69.38829803466797,Asia/Aqtobe
+violation,warning,deny,31,CN,CHN,China,Changsha,28.17919921875,113.11360168457031,Asia/Chongqing
+violation,warning,deny,11,AU,AUS,Australia,Boronia,-37.86669921875,145.28329467773438,Australia/Victoria
+violation,warning,deny,11,RU,RUS,"Russian Federation",Cherepovets,59.13330078125,37.900001525878906,Europe/Moscow
+violation,warning,deny,11,US,USA,"United States",Randallstown,39.37879943847656,-76.81390380859375,America/New_York
+violation,warning,deny,19,RU,RUS,"Russian Federation",Togliatti,53.53030014038086,49.346099853515625,Europe/Samara
+violation,warning,deny,12,RU,RUS,"Russian Federation",Kemerovo,55.33330154418945,86.08329772949219,Asia/Novokuznetsk
+violation,warning,deny,16,BY,BLR,Belarus,Gomel,55.29869842529297,28.77389907836914,Europe/Minsk
+violation,warning,deny,190,HK,HKG,"Hong Kong","Central District",22.283300399780273,114.1500015258789,Asia/Hong_Kong
+violation,warning,deny,10,RU,RUS,"Russian Federation",Chita,52.031700134277344,113.50090026855469,
+violation,warning,deny,22,IN,IND,India,Surat,20.966699600219727,72.9000015258789,Asia/Calcutta
+violation,warning,deny,12,US,USA,"United States",Baltimore,39.290401458740234,-76.61219787597656,America/New_York
+violation,warning,deny,19,RO,ROU,Romania,Targu-mures,46.54999923706055,24.566699981689453,Europe/Bucharest
+violation,warning,deny,12,RU,RUS,"Russian Federation",Sterlitamak,53.62459945678711,55.95009994506836,Europe/Samara
+violation,warning,deny,9,US,USA,"United States",Lee,42.2849006652832,-73.21420288085938,America/New_York
+violation,warning,deny,9,KR,KOR,"Korea, Republic of",Vijongbu,37.74150085449219,127.04740142822266,Asia/Seoul
+violation,warning,deny,9,MX,MEX,Mexico,Hidalgo,19.683300018310547,-100.56670379638672,America/Mexico_City
+violation,warning,deny,9,NL,NLD,Netherlands,Rotterdam,51.91669845581055,4.5,Europe/Amsterdam
+violation,warning,deny,9,IN,IND,India,Manipal,13.350000381469727,74.7833023071289,Asia/Calcutta
+violation,warning,deny,62,TW,TWN,Taiwan,Taichung,24.143299102783203,120.681396484375,Asia/Taipei
+violation,warning,deny,9,US,USA,"United States",Bayside,40.76369857788086,-73.77249908447266,America/New_York
+violation,warning,deny,9,TR,TUR,Turkey,Zonguldak,41.45140075683594,31.793100357055664,Asia/Istanbul
+violation,warning,deny,9,CN,CHN,China,Lianyungang,34.599700927734375,119.1594009399414,Asia/Shanghai
+violation,warning,deny,9,US,USA,"United States",Somerville,42.39080047607422,-71.09249877929688,America/New_York
+violation,warning,deny,23,JP,JPN,Japan,Yokohama,35.44779968261719,139.6425018310547,Asia/Tokyo
+violation,warning,deny,27,IN,IND,India,Delhi,28.66670036315918,77.2166976928711,Asia/Calcutta
+violation,warning,deny,8,AU,AUS,Australia,Clayton,-37.91669845581055,145.11669921875,Australia/Victoria
+violation,warning,deny,8,HK,HKG,"Hong Kong","Chai Wan",22.266700744628906,114.2332992553711,Asia/Hong_Kong
+violation,warning,deny,8,JP,JPN,Japan,Fukagawa,43.708099365234375,142.03919982910156,Asia/Tokyo
+violation,warning,deny,8,JP,JPN,Japan,Asahikawa,43.767799377441406,142.37030029296875,Asia/Tokyo
+violation,warning,deny,8,HK,HKG,"Hong Kong","Tuen Mun",22.399999618530273,113.9832992553711,Asia/Hong_Kong
+violation,warning,deny,16,RU,RUS,"Russian Federation",Lipetsk,52.60309982299805,39.57080078125,Europe/Moscow
+violation,warning,deny,19,KR,KOR,"Korea, Republic of",Suwon,37.291099548339844,127.00890350341797,Asia/Seoul
+violation,warning,deny,13,UA,UKR,Ukraine,Lviv,49.8406982421875,24.030500411987305,Europe/Uzhgorod
+violation,warning,deny,8,JP,JPN,Japan,Sizuoka,34.976898193359375,138.3831024169922,Asia/Tokyo
+violation,warning,deny,22,JP,JPN,Japan,Toyohashi,34.766700744628906,137.38330078125,Asia/Tokyo
+violation,warning,deny,10,CA,CAN,Canada,Vancouver,49.25,-123.13330078125,America/Vancouver
+violation,warning,deny,17,JP,JPN,Japan,Fukuoka,33.60639953613281,130.41810607910156,Asia/Tokyo
+violation,warning,deny,13,HU,HUN,Hungary,Budapest,47.5,19.08329963684082,Europe/Budapest
+violation,warning,deny,8,HK,HKG,"Hong Kong","Tai Po",22.299999237060547,113.94999694824219,Asia/Hong_Kong
+violation,warning,deny,10,RU,RUS,"Russian Federation",Irkutsk,52.29779815673828,104.29640197753906,Asia/Irkutsk
+violation,warning,deny,10,AR,ARG,Argentina,"Mar Del Plata",-38.00230026245117,-57.557498931884766,America/Argentina/Buenos_Aires
+violation,warning,deny,22,JP,JPN,Japan,Fujisawa,35.34189987182617,139.47000122070312,Asia/Tokyo
+violation,warning,deny,8,OM,OMN,Oman,Muttrah,23.61280059814453,58.56439971923828,Asia/Muscat
+violation,warning,deny,14,JP,JPN,Japan,Sakaide,34.31669998168945,133.85000610351562,Asia/Tokyo
+violation,warning,deny,8,US,USA,"United States",Cary,35.791500091552734,-78.78109741210938,America/New_York
+violation,warning,deny,38,JP,JPN,Japan,Nagoya,35.180198669433594,136.9066925048828,Asia/Tokyo
+violation,warning,deny,11,RU,RUS,"Russian Federation",Zlatoust,55.17110061645508,59.65079879760742,Asia/Yekaterinburg
+violation,warning,deny,13,JP,JPN,Japan,Chiba,35.604698181152344,140.12330627441406,Asia/Tokyo
+violation,warning,deny,9,US,USA,"United States",Providence,41.692901611328125,-111.814697265625,America/Denver
+violation,warning,deny,8,UA,UKR,Ukraine,Lugansk,48.56700134277344,39.317100524902344,Europe/Zaporozhye
+violation,warning,deny,8,JP,JPN,Japan,Hamamatsu,34.70000076293945,137.73330688476562,Asia/Tokyo
+violation,warning,deny,11,JP,JPN,Japan,Saitama,35.85689926147461,139.64889526367188,Asia/Tokyo
+violation,warning,deny,8,RO,ROU,Romania,Targoviste,44.93330001831055,25.450000762939453,Europe/Bucharest
+violation,warning,deny,16,US,USA,"United States","Jersey City",40.71670150756836,-74.0781021118164,America/New_York
+violation,warning,deny,15,JP,JPN,Japan,Sagamihara,35.5531005859375,139.35440063476562,Asia/Tokyo
+violation,warning,deny,8,CA,CAN,Canada,Burnaby,49.25,-122.94999694824219,America/Vancouver
+violation,warning,deny,8,JP,JPN,Japan,Kochi,33.55970001220703,133.53109741210938,Asia/Tokyo
+violation,warning,deny,8,CA,CAN,Canada,Winnipeg,49.88330078125,-97.16670227050781,America/Winnipeg
+violation,warning,deny,13,DE,DEU,Germany,Munich,48.150001525878906,11.58329963684082,Europe/Berlin
+violation,warning,deny,14,KR,KOR,"Korea, Republic of",Paju,37.76110076904297,126.7750015258789,Asia/Seoul
+violation,warning,deny,8,JP,JPN,Japan,Hirakata,34.79999923706055,135.63330078125,Asia/Tokyo
+violation,warning,deny,8,JP,JPN,Japan,Moka,36.43330001831055,140.01669311523438,Asia/Tokyo
+violation,warning,deny,8,JP,JPN,Japan,Kure,34.233299255371094,132.5666961669922,Asia/Tokyo
+violation,warning,deny,14,US,USA,"United States","Round Lake",42.34120178222656,-88.11370086669922,America/Chicago
+violation,warning,deny,8,NL,NLD,Netherlands,Best,51.50490188598633,5.392899990081787,Europe/Amsterdam
+violation,warning,deny,10,US,USA,"United States",Farmington,42.46480178833008,-83.40339660644531,America/New_York
+violation,warning,deny,9,GB,GBR,"United Kingdom",Sheffield,53.36669921875,-1.5,Europe/London
+violation,warning,deny,8,TH,THA,Thailand,Petchaburi,13.111900329589844,99.9447021484375,Asia/Bangkok
+violation,warning,deny,8,US,USA,"United States",Stockton,37.957698822021484,-121.29080200195312,America/Los_Angeles
+violation,warning,deny,9,JP,JPN,Japan,Shizuoka,34.976898193359375,138.3831024169922,Asia/Tokyo
+violation,warning,deny,8,KR,KOR,"Korea, Republic of",Inchon,37.4536018371582,126.73169708251953,Asia/Seoul
+violation,warning,deny,30,HK,HKG,"Hong Kong",Kowloon,22.316699981689453,114.18329620361328,Asia/Hong_Kong
+violation,warning,deny,8,HK,HKG,"Hong Kong","To Kwa Wan",22.316699981689453,114.18329620361328,Asia/Hong_Kong
+violation,warning,deny,8,US,USA,"United States",Winchester,39.16790008544922,-78.16719818115234,America/New_York
+violation,warning,deny,8,DE,DEU,Germany,Münster,51.96670150756836,7.633299827575684,Europe/Berlin
+violation,warning,deny,8,CA,CAN,Canada,Surrey,49.13639831542969,-122.82129669189453,America/Vancouver
+violation,warning,deny,8,GB,GBR,"United Kingdom","South Shields",54.98780059814453,-1.4213999509811401,Europe/London
+violation,warning,deny,8,JP,JPN,Japan,Fussa,35.736698150634766,139.32359313964844,Asia/Tokyo
+violation,warning,deny,8,US,USA,"United States","South Lake Tahoe",38.93320083618164,-119.9843978881836,America/Los_Angeles
+violation,warning,deny,8,HK,HKG,"Hong Kong","Sha Tin",22.38330078125,114.18329620361328,Asia/Hong_Kong
+violation,warning,deny,8,MY,MYS,Malaysia,Klang,3.0332999229431152,101.44999694824219,Asia/Kuala_Lumpur
+violation,warning,deny,21,JP,JPN,Japan,Kyoto,35.021400451660156,135.75559997558594,Asia/Tokyo
+violation,warning,deny,7,KR,KOR,"Korea, Republic of",Taegu,35.87030029296875,128.59109497070312,Asia/Seoul
+violation,warning,deny,7,JP,JPN,Japan,Oiso,35.3031005859375,139.30279541015625,Asia/Tokyo
+violation,warning,deny,338,US,USA,"United States","Ann Arbor",42.292301177978516,-83.7145004272461,America/New_York
+violation,warning,deny,7,AU,AUS,Australia,Nunawading,-37.81669998168945,145.1667022705078,Australia/Victoria
+violation,warning,deny,7,CA,CAN,Canada,Markham,43.87699890136719,-79.25779724121094,America/Rainy_River
+violation,warning,deny,34,TW,TWN,Taiwan,Tainan,22.99329948425293,120.20359802246094,Asia/Taipei
+violation,warning,deny,12,MY,MYS,Malaysia,"Petaling Jaya",3.0833001136779785,101.6500015258789,Asia/Kuala_Lumpur
+violation,warning,deny,7,JP,JPN,Japan,Ichinomiya,35.29999923706055,136.8000030517578,Asia/Tokyo
+violation,warning,deny,7,JP,JPN,Japan,Yamagata,38.2406005859375,140.36329650878906,Asia/Tokyo
+violation,warning,deny,7,JP,JPN,Japan,Tajimi,35.31669998168945,137.13330078125,Asia/Tokyo
+violation,warning,deny,7,JP,JPN,Japan,Matsubara,34.56669998168945,135.5500030517578,Asia/Tokyo
+violation,warning,deny,7,JP,JPN,Japan,Maebashi,36.3911018371582,139.06080627441406,Asia/Tokyo
+violation,warning,deny,7,HK,HKG,"Hong Kong","Mong Kok",22.316699981689453,114.16670227050781,Asia/Hong_Kong
+violation,warning,deny,7,US,USA,"United States","Baldwin Park",34.09640121459961,-117.966796875,America/Los_Angeles
+violation,warning,deny,8,TH,THA,Thailand,"Khon Kaen",16.446699142456055,102.83300018310547,Asia/Bangkok
+violation,warning,deny,7,KR,KOR,"Korea, Republic of",Cheonan,36.80649948120117,127.1521987915039,Asia/Seoul
+violation,warning,deny,7,US,USA,"United States",Fullerton,33.880001068115234,-117.96330261230469,America/Los_Angeles
+violation,warning,deny,7,US,USA,"United States","Ladera Ranch",33.56800079345703,-117.63279724121094,America/Los_Angeles
+violation,warning,deny,7,JP,JPN,Japan,Nakanoshima,32.75,129.86669921875,Asia/Tokyo
+violation,warning,deny,21,KR,KOR,"Korea, Republic of",Daejeon,36.3213996887207,127.4197006225586,Asia/Seoul
+violation,warning,deny,7,US,USA,"United States","Forest Hills",40.722900390625,-73.84239959716797,America/New_York
+violation,warning,deny,7,HK,HKG,"Hong Kong","Hung Tin",22.450000762939453,114.0333023071289,Asia/Hong_Kong
+violation,warning,deny,9,CN,CHN,China,Jinhua,29.106800079345703,119.64420318603516,Asia/Shanghai
+violation,warning,deny,7,US,USA,"United States","Daly City",37.6786003112793,-122.47640228271484,America/Los_Angeles
+violation,warning,deny,21,AE,ARE,"United Arab Emirates",Dubai,25.25819969177246,55.3046989440918,Asia/Dubai
+violation,warning,deny,7,JP,JPN,Japan,Nisshin,35.16579818725586,136.96400451660156,Asia/Tokyo
+violation,warning,deny,7,US,USA,"United States","San Diego",32.88970184326172,-117.13359832763672,America/Los_Angeles
+violation,warning,deny,7,FR,FRA,France,Montpellier,43.61090087890625,3.87719988822937,Europe/Paris
+violation,warning,deny,7,JP,JPN,Japan,Okayama,34.66170120239258,133.93499755859375,Asia/Tokyo
+violation,warning,deny,7,US,USA,"United States",Maywood,41.88130187988281,-87.84410095214844,America/Chicago
+violation,warning,deny,7,KR,KOR,"Korea, Republic of",Gangneung,37.75559997558594,128.89610290527344,Asia/Seoul
+violation,warning,deny,7,BR,BRA,Brazil,"Campina Grande",-7.216700077056885,-35.88330078125,America/Recife
+violation,warning,deny,7,KR,KOR,"Korea, Republic of",Gwangmyeong,37.37670135498047,126.43060302734375,Asia/Seoul
+violation,warning,deny,13,KR,KOR,"Korea, Republic of",Incheon,37.4536018371582,126.73169708251953,Asia/Seoul
+violation,warning,deny,7,KR,KOR,"Korea, Republic of",Daegu,35.87030029296875,128.59109497070312,Asia/Seoul
+violation,warning,deny,7,CZ,CZE,"Czech Republic",Brno,49.20000076293945,16.63330078125,Europe/Prague
+violation,warning,deny,7,JP,JPN,Japan,Itami,34.766700744628906,135.4167022705078,Asia/Tokyo
+violation,warning,deny,7,JP,JPN,Japan,Atsugi,35.438899993896484,139.3596954345703,Asia/Tokyo
+violation,warning,deny,6,AU,AUS,Australia,Logan,-36.61669921875,143.46670532226562,Australia/Victoria
+violation,warning,deny,10,AU,AUS,Australia,Brisbane,-27.47100067138672,153.02430725097656,Australia/Queensland
+violation,warning,deny,6,DZ,DZA,Algeria,Tébessa,35.40420150756836,8.124199867248535,Africa/Algiers
+violation,warning,deny,6,JP,JPN,Japan,Fuchu,35.66669845581055,139.48330688476562,Asia/Tokyo
+violation,warning,deny,13,US,USA,"United States",Wilmington,39.7156982421875,-75.5280990600586,America/New_York
+violation,warning,deny,9,KR,KOR,"Korea, Republic of",Yongin,37.23419952392578,127.2063980102539,Asia/Seoul
+violation,warning,deny,6,MY,MYS,Malaysia,Ipoh,4.584099769592285,101.08290100097656,Asia/Kuala_Lumpur
+violation,warning,deny,6,US,USA,"United States","Asbury Park",40.24340057373047,-74.0386962890625,America/New_York
+violation,warning,deny,6,NO,NOR,Norway,Bjordal,61.06669998168945,5.8333001136779785,Europe/Oslo
+violation,warning,deny,6,IN,IND,India,Konnagar,22.700000762939453,88.34750366210938,Asia/Calcutta
+violation,warning,deny,28,US,USA,"United States",Glendale,34.1525993347168,-118.2645034790039,America/Los_Angeles
+violation,warning,deny,6,US,USA,"United States",Rockford,42.27109909057617,-89.09400177001953,America/Chicago
+violation,warning,deny,6,JP,JPN,Japan,Suita,34.75,135.53329467773438,Asia/Tokyo
+violation,warning,deny,6,PL,POL,Poland,Lodz,51.75,19.466699600219727,Europe/Warsaw
+violation,warning,deny,6,US,USA,"United States",Greenville,34.86009979248047,-82.24639892578125,America/New_York
+violation,warning,deny,6,AU,AUS,Australia,Hurstville,-33.96670150756836,151.10000610351562,Australia/NSW
+violation,warning,deny,18,KH,KHM,Cambodia,"Phnom Penh",11.550000190734863,104.91670227050781,Asia/Phnom_Penh
+violation,warning,deny,6,CN,CHN,China,Dongguang,23.595199584960938,116.67430114746094,Asia/Chongqing
+violation,warning,deny,9,BR,BRA,Brazil,Brasília,-15.783300399780273,-47.91669845581055,America/Sao_Paulo
+violation,warning,deny,11,IL,ISR,Israel,"Tel Aviv",32.06669998168945,34.766700744628906,Asia/Jerusalem
+violation,warning,deny,13,EC,ECU,Ecuador,Quito,-0.2167000025510788,-78.5,America/Guayaquil
+violation,warning,deny,6,JP,JPN,Japan,Takamatsu,34.340301513671875,134.04330444335938,Asia/Tokyo
+violation,warning,deny,7,CN,CHN,China,Jishou,28.316699981689453,109.7166976928711,Asia/Chongqing
+violation,warning,deny,16,IN,IND,India,Kolkata,22.569700241088867,88.36969757080078,Asia/Calcutta
+violation,warning,deny,6,JP,JPN,Japan,Uji,34.88330078125,135.8000030517578,Asia/Tokyo
+violation,warning,deny,6,TW,TWN,Taiwan,Checheng,22.072500228881836,120.71279907226562,Asia/Taipei
+violation,warning,deny,9,SA,SAU,"Saudi Arabia",Jeddah,21.51689910888672,39.219200134277344,Asia/Riyadh
+violation,warning,deny,6,US,USA,"United States","Saint Louis",38.589900970458984,-90.3469009399414,America/Chicago
+violation,warning,deny,12,KR,KOR,"Korea, Republic of",Seongnam,37.4385986328125,127.13780212402344,Asia/Seoul
+violation,warning,deny,6,US,USA,"United States",Sussex,43.148799896240234,-88.24510192871094,America/Chicago
+violation,warning,deny,6,JP,JPN,Japan,Sendai,38.26890182495117,140.8719024658203,Asia/Tokyo
+violation,warning,deny,6,PL,POL,Poland,Wroclaw,51.099998474121094,17.033300399780273,Europe/Warsaw
+violation,warning,deny,6,JP,JPN,Japan,Akita,39.71670150756836,140.11669921875,Asia/Tokyo
+violation,warning,deny,6,US,USA,"United States",Laurel,39.135799407958984,-76.87200164794922,America/New_York
+violation,warning,deny,6,MX,MEX,Mexico,Orizaba,18.850000381469727,-97.0999984741211,America/Mexico_City
+violation,warning,deny,6,US,USA,"United States","South Hamilton",42.62699890136719,-70.86019897460938,America/New_York
+violation,warning,deny,9,BR,BRA,Brazil,"Jaraguá Do Sul",-26.483299255371094,-49.06669998168945,America/Sao_Paulo
+violation,warning,deny,6,IN,IND,India,Jamnagar,22.466699600219727,70.06670379638672,Asia/Calcutta
+violation,warning,deny,6,JP,JPN,Japan,Hasuda,35.97560119628906,139.6508026123047,Asia/Tokyo
+violation,warning,deny,6,JP,JPN,Japan,Tsuyama,35.04999923706055,134.0,Asia/Tokyo
+violation,warning,deny,6,US,USA,"United States",Brighton,42.3484001159668,-71.15509796142578,America/New_York
+violation,warning,deny,5,AU,AUS,Australia,Singleton,-32.56740188598633,151.16600036621094,Australia/NSW
+violation,warning,deny,14,KR,KOR,"Korea, Republic of",Seocho,37.4906005859375,127.0199966430664,Asia/Seoul
+violation,warning,deny,11,JP,JPN,Japan,Setagaya,35.63330078125,139.64999389648438,Asia/Tokyo
+violation,warning,deny,8,TW,TWN,Taiwan,Hsinchu,24.80470085144043,120.97139739990234,Asia/Taipei
+violation,warning,deny,5,TH,THA,Thailand,Phitsanulok,16.824800491333008,100.25859832763672,Asia/Bangkok
+violation,warning,deny,5,BR,BRA,Brazil,"Novo Hamburgo",-29.683300018310547,-51.13330078125,America/Sao_Paulo
+violation,warning,deny,5,US,USA,"United States",Brea,33.92689895629883,-117.86119842529297,America/Los_Angeles
+violation,warning,deny,8,KZ,KAZ,Kazakhstan,Kostanay,53.16669845581055,63.58330154418945,Asia/Aqtobe
+violation,warning,deny,10,TW,TWN,Taiwan,Changhua,24.079999923706055,120.5425033569336,Asia/Taipei
+violation,warning,deny,26,PH,PHL,Philippines,Makati,14.566699981689453,121.0333023071289,Asia/Manila
+violation,warning,deny,5,CA,CAN,Canada,Morinville,53.79999923706055,-113.6500015258789,America/Edmonton
+violation,warning,deny,5,UA,UKR,Ukraine,Ternopil,49.55590057373047,25.605600357055664,Europe/Uzhgorod
+violation,warning,deny,8,US,USA,"United States","Falls Church",38.847198486328125,-77.14250183105469,America/New_York
+violation,warning,deny,8,MY,MYS,Malaysia,Kajang,2.9927000999450684,101.79090118408203,Asia/Kuala_Lumpur
+violation,warning,deny,5,ZA,ZAF,"South Africa",Alberton,-26.265199661254883,28.140600204467773,Africa/Johannesburg
+violation,warning,deny,5,US,USA,"United States","El Cajon",32.84049987792969,-116.87969970703125,America/Los_Angeles
+violation,warning,deny,5,JP,JPN,Japan,Handa,34.88330078125,136.9333038330078,Asia/Tokyo
+violation,warning,deny,5,BG,BGR,Bulgaria,"Stara Zagora",42.43280029296875,25.64189910888672,Europe/Sofia
+violation,warning,deny,5,GB,GBR,"United Kingdom",Andover,51.20000076293945,-1.483299970626831,Europe/London
+violation,warning,deny,5,US,USA,"United States",Barnesville,40.801300048828125,-76.09159851074219,America/New_York
+violation,warning,deny,5,RU,RUS,"Russian Federation",Tula,54.20209884643555,37.6442985534668,Europe/Moscow
+violation,warning,deny,17,SA,SAU,"Saudi Arabia",Riyadh,24.65369987487793,46.7151985168457,Asia/Riyadh
+violation,warning,deny,20,PH,PHL,Philippines,"Quezon City",14.648799896240234,121.0509033203125,Asia/Manila
+violation,warning,deny,5,US,USA,"United States",Boardman,45.77880096435547,-119.52899932861328,America/Los_Angeles
+violation,warning,deny,5,JP,JPN,Japan,Sapporo,43.06420135498047,141.34689331054688,Asia/Tokyo
+violation,warning,deny,5,TW,TWN,Taiwan,Lukang,24.05500030517578,120.43389892578125,Asia/Taipei
+violation,warning,deny,5,JP,JPN,Japan,Tsu,34.73030090332031,136.50860595703125,Asia/Tokyo
+violation,warning,deny,5,CN,CHN,China,Zhangjiakou,40.810001373291016,114.87940216064453,Asia/Shanghai
+violation,warning,deny,5,JP,JPN,Japan,Kobe,34.69129943847656,135.18299865722656,Asia/Tokyo
+violation,warning,deny,5,BY,BLR,Belarus,Borisov,54.227901458740234,28.5049991607666,Europe/Minsk
+violation,warning,deny,5,BR,BRA,Brazil,Uberaba,-19.75,-47.91669845581055,America/Sao_Paulo
+violation,warning,deny,5,JP,JPN,Japan,Kumamoto,32.78969955444336,130.74169921875,Asia/Tokyo
+violation,warning,deny,5,US,USA,"United States","Palm Coast",29.48390007019043,-81.19159698486328,America/New_York
+violation,warning,deny,5,IR,IRN,"Iran, Islamic Republic of",Fars,35.18259811401367,59.38859939575195,Asia/Tehran
+violation,warning,deny,5,US,USA,"United States",Saginaw,43.480899810791016,-83.96820068359375,America/New_York
+violation,warning,deny,5,CN,CHN,China,Lishui,28.460399627685547,119.9103012084961,Asia/Shanghai
+violation,warning,deny,5,JP,JPN,Japan,Hirosaki,40.593101501464844,140.47250366210938,Asia/Tokyo
+violation,warning,deny,4,DK,DNK,Denmark,Copenhagen,55.66669845581055,12.58329963684082,Europe/Copenhagen
+violation,warning,deny,21,TW,TWN,Taiwan,Taoyüan,24.986900329589844,121.30560302734375,Asia/Taipei
+violation,warning,deny,4,AR,ARG,Argentina,Perico,-24.38290023803711,-65.11489868164062,America/Argentina/Jujuy
+violation,warning,deny,4,BR,BRA,Brazil,Piracicaba,-22.716699600219727,-47.63330078125,America/Sao_Paulo
+violation,warning,deny,7,ID,IDN,Indonesia,Semarang,-6.993199825286865,110.42030334472656,Asia/Jakarta
+violation,warning,deny,4,US,USA,"United States",Cincinnati,39.1619987487793,-84.45690155029297,America/New_York
+violation,warning,deny,4,JP,JPN,Japan,Sagae,38.372501373291016,140.2725067138672,Asia/Tokyo
+violation,warning,deny,4,KZ,KAZ,Kazakhstan,Pavlodar,52.29999923706055,76.94999694824219,Asia/Almaty
+violation,warning,deny,7,MA,MAR,Morocco,Casablanca,33.59280014038086,-7.619200229644775,Africa/Casablanca
+violation,warning,deny,19,EG,EGY,Egypt,Cairo,30.049999237060547,31.25,Africa/Cairo
+violation,warning,deny,4,CL,CHL,Chile,"Vina Del Mar",-33.00809860229492,-71.51969909667969,Chile/Continental
+violation,warning,deny,4,US,USA,"United States","Fort Worth",32.725399017333984,-97.32080078125,America/Chicago
+violation,warning,deny,4,US,USA,"United States",Lenexa,38.94990158081055,-94.74530029296875,America/Chicago
+violation,warning,deny,4,JP,JPN,Japan,Nakano,36.75,138.36669921875,Asia/Tokyo
+violation,warning,deny,35,PE,PER,Peru,Lima,-12.050000190734863,-77.05000305175781,America/Lima
+violation,warning,deny,4,US,USA,"United States",Hauppauge,40.81909942626953,-73.21019744873047,America/New_York
+violation,warning,deny,4,CA,CAN,Canada,"North Vancouver",49.31669998168945,-123.06670379638672,America/Vancouver
+violation,warning,deny,4,US,USA,"United States","East Rochester",43.11130142211914,-77.49420166015625,America/New_York
+violation,warning,deny,8,TW,TWN,Taiwan,Miaoli,24.558900833129883,120.8218994140625,Asia/Taipei
+violation,warning,deny,4,KR,KOR,"Korea, Republic of",Wonju,37.35139846801758,127.94529724121094,Asia/Seoul
+violation,warning,deny,6,US,USA,"United States",Schaumburg,42.05339813232422,-88.05400085449219,America/Chicago
+violation,warning,deny,26,MX,MEX,Mexico,Mexico,19.434200286865234,-99.13860321044922,America/Mexico_City
+violation,warning,deny,10,CN,CHN,China,Wenzhou,27.999399185180664,120.66680145263672,Asia/Shanghai
+violation,warning,deny,5,US,USA,"United States",Scottsdale,33.611900329589844,-111.8906021118164,America/Phoenix
+violation,warning,deny,4,MX,MEX,Mexico,Zapopan,20.716699600219727,-103.4000015258789,America/Mazatlan
+violation,warning,deny,4,US,USA,"United States",Tulsa,36.155399322509766,-95.993896484375,America/Chicago
+violation,warning,deny,8,US,USA,"United States","Mountain View",37.38600158691406,-122.08380126953125,America/Los_Angeles
+violation,warning,deny,4,DE,DEU,Germany,Hamburg,53.54999923706055,10.0,Europe/Berlin
+violation,warning,deny,4,JP,JPN,Japan,Hiroshima,34.39630126953125,132.4593963623047,Asia/Tokyo
+violation,warning,deny,4,IN,IND,India,Bulandshahr,28.399999618530273,77.8499984741211,Asia/Calcutta
+violation,warning,deny,4,CH,CHE,Switzerland,Lausanne,46.53329849243164,6.6666998863220215,Europe/Zurich
+violation,warning,deny,22,TR,TUR,Turkey,Ankara,39.91170120239258,32.840301513671875,Asia/Istanbul
+violation,warning,deny,6,UA,UKR,Ukraine,Sokal,50.47439956665039,24.282899856567383,Europe/Uzhgorod
+violation,warning,deny,7,BR,BRA,Brazil,"Pedra Branca",-5.449999809265137,-39.71670150756836,America/Fortaleza
+violation,warning,deny,4,JP,JPN,Japan,Matsusaka,34.56669998168945,136.53329467773438,Asia/Tokyo
+violation,warning,deny,4,US,USA,"United States",Huntsville,34.66849899291992,-86.55760192871094,America/Chicago
+violation,warning,deny,4,IR,IRN,"Iran, Islamic Republic of",Yazd,31.897199630737305,54.36750030517578,Asia/Tehran
+violation,warning,deny,4,US,USA,"United States","Newport Beach",33.627498626708984,-117.87339782714844,America/Los_Angeles
+violation,warning,deny,4,JP,JPN,Japan,Utsunomiya,36.565799713134766,139.88360595703125,Asia/Tokyo
+violation,warning,deny,6,KW,KWT,Kuwait,Kuwait,29.369699478149414,47.97829818725586,Asia/Kuwait
+violation,warning,deny,4,SE,SWE,Sweden,Rönninge,59.20000076293945,17.733299255371094,Europe/Stockholm
+violation,warning,deny,3,GB,GBR,"United Kingdom",Stevenage,51.91669845581055,-0.2167000025510788,Europe/London
+violation,warning,deny,3,US,USA,"United States","Buena Park",33.86750030517578,-117.99810028076172,America/Los_Angeles
+violation,warning,deny,3,UA,UKR,Ukraine,Uman,48.7484016418457,30.221799850463867,Europe/Kiev
+violation,warning,deny,3,TR,TUR,Turkey,Kocaeli,40.76689910888672,29.916900634765625,Asia/Istanbul
+violation,warning,deny,3,RU,RUS,"Russian Federation",Pereslavl-zalesskiy,56.73929977416992,38.856300354003906,Europe/Moscow
+violation,warning,deny,3,US,USA,"United States","Tinley Park",41.57339859008789,-87.78450012207031,America/Chicago
+violation,warning,deny,3,US,USA,"United States",Ballwin,38.59510040283203,-90.54620361328125,America/Chicago
+violation,warning,deny,3,MY,MYS,Malaysia,Langat,2.8513998985290527,101.4542007446289,Asia/Kuala_Lumpur
+violation,warning,deny,4,CN,CHN,China,Xiaoyi,37.384700775146484,111.99359893798828,Asia/Chongqing
+violation,warning,deny,3,KZ,KAZ,Kazakhstan,Aktobe,43.983299255371094,78.80000305175781,Asia/Almaty
+violation,warning,deny,3,AR,ARG,Argentina,Pilar,-34.45759963989258,-58.91379928588867,America/Argentina/Buenos_Aires
+violation,warning,deny,6,RU,RUS,"Russian Federation",Vladimir,56.13650131225586,40.39659881591797,Europe/Moscow
+violation,warning,deny,3,ES,ESP,Spain,Almería,36.83330154418945,-2.450000047683716,Africa/Ceuta
+violation,warning,deny,3,AR,ARG,Argentina,Federal,-30.954599380493164,-58.78329849243164,America/Argentina/Buenos_Aires
+violation,warning,deny,9,BO,BOL,Bolivia,"La Paz",-16.5,-68.1500015258789,America/La_Paz
+violation,warning,deny,3,MX,MEX,Mexico,Guanajuato,21.016700744628906,-101.25,America/Mexico_City
+violation,warning,deny,3,IT,ITA,Italy,"San Giovanni In Persiceto",44.63330078125,11.183300018310547,Europe/Rome
+violation,warning,deny,3,FR,FRA,France,Marly-le-roi,48.86669921875,2.0833001136779785,Europe/Paris
+violation,warning,deny,3,US,USA,"United States","Van Nuys",34.18669891357422,-118.4489974975586,America/Los_Angeles
+violation,warning,deny,3,EC,ECU,Ecuador,Guayaquil,-2.1666998863220215,-79.9000015258789,America/Guayaquil
+violation,warning,deny,3,GR,GRC,Greece,Náxos,37.10559844970703,25.376399993896484,Europe/Athens
+violation,warning,deny,17,VN,VNM,Vietnam,"Ho Chi Minh City",10.814200401306152,106.643798828125,Asia/Phnom_Penh
+violation,warning,deny,3,CN,CHN,China,Haining,30.408100128173828,120.5344009399414,Asia/Shanghai
+violation,warning,deny,5,UA,UKR,Ukraine,"Krivoy Rog",46.4286003112793,34.24980163574219,Europe/Simferopol
+violation,warning,deny,6,JP,JPN,Japan,Fuji,35.150001525878906,138.64999389648438,Asia/Tokyo
+violation,warning,deny,7,US,USA,"United States",Phoenix,33.44839859008789,-112.0739974975586,America/Phoenix
+violation,warning,deny,3,DE,DEU,Germany,Amstetten,48.56669998168945,9.850000381469727,Europe/Berlin
+violation,warning,deny,3,IT,ITA,Italy,Lanciano,42.233299255371094,14.383299827575684,Europe/Rome
+violation,warning,deny,3,DE,DEU,Germany,Reichelsheim,49.71500015258789,8.843099594116211,Europe/Berlin
+violation,warning,deny,3,DE,DEU,Germany,Schalksmühle,51.233299255371094,7.533299922943115,Europe/Berlin
+violation,warning,deny,3,BY,BLR,Belarus,Bobruisk,53.13840103149414,29.221399307250977,Europe/Minsk
+violation,warning,deny,11,IN,IND,India,Noida,28.56999969482422,77.31999969482422,Asia/Calcutta
+violation,warning,deny,3,TR,TUR,Turkey,Rize,41.02080154418945,40.52190017700195,Asia/Istanbul
+violation,warning,deny,3,PT,PRT,Portugal,Alcantarilha,37.130401611328125,-8.346199989318848,Europe/Lisbon
+violation,warning,deny,3,MA,MAR,Morocco,Agadir,30.420700073242188,-9.593199729919434,Africa/Casablanca
+violation,warning,deny,3,US,USA,"United States",Raleigh,35.772098541259766,-78.63860321044922,America/New_York
+violation,warning,deny,3,US,USA,"United States",Melville,40.78499984741211,-73.40619659423828,America/New_York
+violation,warning,deny,4,TR,TUR,Turkey,Mugla,37.218101501464844,28.366500854492188,Asia/Istanbul
+violation,warning,deny,3,NL,NLD,Netherlands,Bennebroek,52.3291015625,4.607800006866455,Europe/Amsterdam
+violation,warning,deny,4,ID,IDN,Indonesia,Tangerang,-6.178100109100342,106.62999725341797,Asia/Jakarta
+violation,warning,deny,7,BY,BLR,Belarus,Vitebsk,55.190399169921875,30.20490074157715,Europe/Minsk
+violation,warning,deny,3,BR,BRA,Brazil,"Lagoa Santa",-19.63330078125,-43.88330078125,America/Sao_Paulo
+violation,warning,deny,3,FJ,FJI,Fiji,Suva,-18.13330078125,178.4167022705078,Pacific/Fiji
+violation,warning,deny,3,US,USA,"United States",Independence,39.09109878540039,-94.41549682617188,America/Chicago
+violation,warning,deny,5,JP,JPN,Japan,Nerima,35.733299255371094,139.64999389648438,Asia/Tokyo
+violation,warning,deny,11,IR,IRN,"Iran, Islamic Republic of",Pars,35.73550033569336,51.52909851074219,Asia/Tehran
+violation,warning,deny,4,US,USA,"United States",Toledo,41.650001525878906,-83.67410278320312,America/New_York
+violation,warning,deny,3,IR,IRN,"Iran, Islamic Republic of",Semnan,35.572898864746094,53.397098541259766,Asia/Tehran
+violation,warning,deny,3,US,USA,"United States",Moonachie,40.83980178833008,-74.05770111083984,America/New_York
+violation,warning,deny,3,US,USA,"United States",Barre,44.179298400878906,-72.47309875488281,America/New_York
+violation,warning,deny,8,ES,ESP,Spain,Madrid,40.408599853515625,-3.692199945449829,Europe/Madrid
+violation,warning,deny,4,JP,JPN,Japan,Kawasaki,35.520599365234375,139.71719360351562,Asia/Tokyo
+violation,warning,deny,3,IT,ITA,Italy,Signoressa,45.750301361083984,12.107199668884277,Europe/Rome
+violation,warning,deny,3,CN,CHN,China,Sanmenxia,34.77470016479492,111.181396484375,Asia/Shanghai
+violation,warning,deny,3,US,USA,"United States",Beaverton,45.457298278808594,-122.79920196533203,America/Los_Angeles
+violation,warning,deny,3,US,USA,"United States",Redding,40.58649826049805,-122.3917007446289,America/Los_Angeles
+violation,warning,deny,3,DE,DEU,Germany,Weiterstadt,49.907798767089844,8.59529972076416,Europe/Berlin
+violation,warning,deny,3,BR,BRA,Brazil,Fernandópolis,-20.266700744628906,-50.233299255371094,America/Sao_Paulo
+violation,warning,deny,5,TR,TUR,Turkey,Adana,37.00170135498047,35.32889938354492,Asia/Istanbul
+violation,warning,deny,5,BR,BRA,Brazil,"Porto Alegre",-30.033300399780273,-51.20000076293945,America/Sao_Paulo
+violation,warning,deny,4,US,USA,"United States","Corpus Christi",27.800600051879883,-97.39640045166016,America/Chicago
+violation,warning,deny,3,US,USA,"United States",Elgin,30.33679962158203,-97.34459686279297,America/Chicago
+violation,warning,deny,3,GB,GBR,"United Kingdom",Bradford,53.78329849243164,-1.75,Europe/London
+violation,warning,deny,3,BR,BRA,Brazil,Mairi,-11.716699600219727,-40.13330078125,America/Bahia
+violation,warning,deny,3,US,USA,"United States",Olympia,46.97809982299805,-122.70240020751953,America/Los_Angeles
+violation,warning,deny,3,US,USA,"United States","Woodcliff Lake",41.02989959716797,-74.05480194091797,America/New_York
+violation,warning,deny,3,SD,SDN,Sudan,Thabit,13.300000190734863,25.100000381469727,Africa/Khartoum
+violation,warning,deny,3,KZ,KAZ,Kazakhstan,Serebryansk,49.692501068115234,83.28919982910156,Asia/Almaty
+violation,warning,deny,3,SA,SAU,"Saudi Arabia",Dammam,26.43440055847168,50.10329818725586,Asia/Riyadh
+violation,warning,deny,6,PE,PER,Peru,Trujillo,-8.116700172424316,-79.0333023071289,America/Lima
+violation,warning,deny,3,GB,GBR,"United Kingdom",Epsom,51.31669998168945,-0.26669999957084656,Europe/London
+violation,warning,deny,6,BY,BLR,Belarus,Brest,52.09749984741211,23.68779945373535,Europe/Minsk
+violation,warning,deny,3,IN,IND,India,Malappuram,11.066699981689453,76.06670379638672,Asia/Calcutta
+violation,warning,deny,3,US,USA,"United States",Missoula,46.7671012878418,-113.9761962890625,America/Denver
+violation,warning,deny,3,CA,CAN,Canada,Brampton,43.688499450683594,-79.7615966796875,America/Rainy_River
+violation,warning,deny,3,IN,IND,India,Nizamabad,18.66670036315918,78.11669921875,Asia/Calcutta
+violation,warning,deny,10,TR,TUR,Turkey,Izmir,38.41270065307617,27.138399124145508,Asia/Istanbul
+violation,warning,deny,3,US,USA,"United States",Absecon,39.489898681640625,-74.47730255126953,America/New_York
+violation,warning,deny,3,US,USA,"United States",Hartford,41.77790069580078,-72.70320129394531,America/New_York
+violation,warning,deny,3,UA,UKR,Ukraine,Storozhynets,48.16429901123047,25.720300674438477,Europe/Uzhgorod
+violation,warning,deny,3,JP,JPN,Japan,Takahama,34.91669845581055,136.98330688476562,Asia/Tokyo
+violation,warning,deny,3,IR,IRN,"Iran, Islamic Republic of",Karaj,35.83549880981445,51.01029968261719,Asia/Tehran
+violation,warning,deny,3,US,USA,"United States",Bakersfield,35.549800872802734,-118.91709899902344,America/Los_Angeles
+violation,warning,deny,3,TW,TWN,Taiwan,"Chang Hwa",24.079999923706055,120.5425033569336,Asia/Taipei
+violation,warning,deny,3,SD,SDN,Sudan,Khartoum,15.58810043334961,32.53419876098633,Africa/Khartoum
+violation,warning,deny,9,BR,BRA,Brazil,Manaus,-3.113300085067749,-60.025299072265625,America/Manaus
+violation,warning,deny,3,US,USA,"United States",Lisle,41.7869987487793,-88.08329772949219,America/Chicago
+violation,warning,deny,4,PK,PAK,Pakistan,Islamabad,33.689998626708984,73.05509948730469,Asia/Karachi
+violation,warning,deny,3,GB,GBR,"United Kingdom",Falkirk,56.0,-3.766700029373169,Europe/London
+violation,warning,deny,7,IN,IND,India,Cochin,9.966699600219727,76.2332992553711,Asia/Calcutta
+violation,warning,deny,3,US,USA,"United States",Montgomery,32.391998291015625,-86.24150085449219,America/Chicago
+violation,warning,deny,3,RS,SRB,Serbia,Belgrade,44.818599700927734,20.46809959411621,Europe/Belgrade
+violation,warning,deny,4,BR,BRA,Brazil,"Rio De Janeiro",-22.899999618530273,-43.233299255371094,America/Sao_Paulo
+violation,warning,deny,3,US,USA,"United States","Howard Beach",40.6593017578125,-73.84480285644531,America/New_York
+violation,warning,deny,17,IN,IND,India,Gurgaon,28.466699600219727,77.0333023071289,Asia/Calcutta
+violation,warning,deny,3,PH,PHL,Philippines,"Cebu City",10.311100006103516,123.8917007446289,Asia/Manila
+violation,warning,deny,3,IN,IND,India,Suri,23.91670036315918,87.5333023071289,Asia/Calcutta
+violation,warning,deny,3,US,USA,"United States",Bismarck,46.80830001831055,-100.78369903564453,America/Chicago
+violation,warning,deny,5,US,USA,"United States","Las Vegas",36.17499923706055,-115.13719940185547,America/Los_Angeles
+violation,warning,deny,3,US,USA,"United States","West Boylston",42.363800048828125,-71.77490234375,America/New_York
+violation,warning,deny,3,IN,IND,India,Indore,22.716699600219727,75.83329772949219,Asia/Calcutta
+violation,warning,deny,3,AU,AUS,Australia,Mulgrave,-37.91669845581055,145.1999969482422,Australia/Victoria
+violation,warning,deny,3,CH,CHE,Switzerland,Biel,47.141700744628906,7.257599830627441,Europe/Zurich
+violation,warning,deny,3,RU,RUS,"Russian Federation",Novocheboksarsk,56.11090087890625,47.47760009765625,Europe/Samara
+violation,warning,deny,3,IN,IND,India,Khammam,17.25,80.1500015258789,Asia/Calcutta
+violation,warning,deny,3,US,USA,"United States","Fort Collins",40.58530044555664,-105.08439636230469,America/Denver
+violation,warning,deny,5,US,USA,"United States",Lincoln,40.79999923706055,-96.66699981689453,America/Chicago
+violation,warning,deny,3,IN,IND,India,Ludhiana,30.899999618530273,75.8499984741211,Asia/Calcutta
+violation,warning,deny,4,MX,MEX,Mexico,Guadalajara,20.66670036315918,-103.33329772949219,America/Mazatlan
+violation,warning,deny,3,NG,NGA,Nigeria,Lagos,6.453100204467773,3.3958001136779785,Africa/Lagos
+violation,warning,deny,3,PH,PHL,Philippines,"Dipolog City",8.588299751281738,123.34089660644531,Asia/Manila
+violation,warning,deny,3,JP,JPN,Japan,Amagasaki,34.71670150756836,135.4167022705078,Asia/Tokyo
+violation,warning,deny,5,BR,BRA,Brazil,Cuiabá,-15.58329963684082,-56.08330154418945,America/Cuiaba
+violation,warning,deny,3,US,USA,"United States","College Station",30.628000259399414,-96.33439636230469,America/Chicago
+violation,warning,deny,4,ID,IDN,Indonesia,"Jakarta Pusat",-6.18179988861084,106.82230377197266,Asia/Jakarta
+violation,warning,deny,9,IN,IND,India,Jaipur,26.91670036315918,75.81670379638672,Asia/Calcutta
+violation,warning,deny,3,IN,IND,India,Bhopal,23.266700744628906,77.4000015258789,Asia/Calcutta
+violation,warning,deny,5,US,USA,"United States",Knoxville,35.960601806640625,-83.92070007324219,America/Chicago
+violation,warning,deny,5,TR,TUR,Turkey,Antalya,36.90810012817383,30.695600509643555,Asia/Istanbul
+violation,warning,deny,4,OM,OMN,Oman,Salalah,17.017499923706055,54.082801818847656,Asia/Muscat
+violation,warning,deny,3,AU,AUS,Australia,Adelaide,-34.9286994934082,138.59860229492188,Australia/South
+violation,warning,deny,3,BG,BGR,Bulgaria,Kardzhali,41.650001525878906,25.36669921875,Europe/Sofia
+violation,warning,deny,3,RU,RUS,"Russian Federation",Polevskoy,56.44219970703125,60.187801361083984,Asia/Yekaterinburg
+violation,warning,deny,3,IR,IRN,"Iran, Islamic Republic of",Ilam,33.63740158081055,46.422698974609375,Asia/Tehran
+violation,warning,deny,3,IN,IND,India,Pondicherry,11.930000305175781,79.83000183105469,Asia/Calcutta
+violation,warning,deny,3,US,USA,"United States",Hoboken,40.74580001831055,-74.03209686279297,America/New_York
+violation,warning,deny,3,US,USA,"United States","North Little Rock",34.8036003112793,-92.24440002441406,America/Chicago
+violation,warning,deny,3,US,USA,"United States","West Jordan",40.60969924926758,-111.93910217285156,America/Denver
+violation,warning,deny,3,US,USA,"United States",Middletown,40.18130111694336,-76.69170379638672,America/New_York
+violation,warning,deny,3,CH,CHE,Switzerland,Oberburg,47.03770065307617,7.626500129699707,Europe/Zurich
+violation,warning,deny,3,PL,POL,Poland,Szprotawa,51.56560134887695,15.536100387573242,Europe/Warsaw
+violation,warning,deny,4,ID,IDN,Indonesia,Bandung,-6.903900146484375,107.61859893798828,Asia/Jakarta
+violation,warning,deny,5,IN,IND,India,Poona,18.533300399780273,73.86669921875,Asia/Calcutta
+violation,warning,deny,3,US,USA,"United States",Alexandria,45.89339828491211,-95.39710235595703,America/Chicago
+violation,warning,deny,3,BY,BLR,Belarus,Polotsk,55.48789978027344,28.785600662231445,Europe/Minsk
+violation,warning,deny,4,IE,IRL,Ireland,Cork,51.89860153198242,-8.495800018310547,Europe/Dublin
+violation,warning,deny,3,TR,TUR,Turkey,Pamukkale,37.91579818725586,29.12019920349121,Asia/Istanbul
+violation,warning,deny,3,US,USA,"United States",Hawthorne,40.95899963378906,-74.15619659423828,America/New_York
+violation,warning,deny,3,US,USA,"United States",Boise,43.54690170288086,-116.29129791259766,America/Denver
+violation,warning,deny,4,PH,PHL,Philippines,Philippine,16.450000762939453,120.55000305175781,Asia/Manila
+violation,warning,deny,3,CA,CAN,Canada,"St. John's",47.54999923706055,-52.66669845581055,America/St_Johns
+violation,warning,deny,3,IT,ITA,Italy,Cittadella,45.650001525878906,11.783300399780273,Europe/Rome
+violation,warning,deny,3,CN,CHN,China,Weixian,36.35580062866211,114.92669677734375,Asia/Shanghai
+violation,warning,deny,3,IN,IND,India,Warangal,18.0,79.58329772949219,Asia/Calcutta
+violation,warning,deny,3,US,USA,"United States","Garden Grove",33.77389907836914,-117.94149780273438,America/Los_Angeles
+violation,warning,deny,3,US,USA,"United States",Carbondale,37.727298736572266,-89.216796875,America/Chicago
+violation,warning,deny,3,BR,BRA,Brazil,"São Roque",-23.528499603271484,-47.13529968261719,America/Sao_Paulo
+violation,warning,deny,3,IN,IND,India,Tandur,17.233299255371094,77.58329772949219,Asia/Calcutta
+violation,warning,deny,24,CN,CHN,China,Suzhou,31.304100036621094,120.59539794921875,Asia/Shanghai
+violation,warning,deny,5,HR,HRV,Croatia,Zagreb,45.79999923706055,16.0,Europe/Zagreb
+violation,warning,deny,3,VN,VNM,Vietnam,"Bac Ninh",21.186100006103516,106.07630157470703,Asia/Phnom_Penh
+violation,warning,deny,3,CN,CHN,China,Kunshan,31.377599716186523,120.95429992675781,Asia/Shanghai
+violation,warning,deny,5,CN,CHN,China,Yangzhou,32.39720153808594,119.43579864501953,Asia/Shanghai
+violation,warning,deny,3,UA,UKR,Ukraine,Savchin,50.474300384521484,24.170400619506836,Europe/Uzhgorod
+violation,warning,deny,3,US,USA,"United States",Franklin,42.51810073852539,-83.26300048828125,America/New_York
+violation,warning,deny,3,IN,IND,India,Chandrapur,19.950000762939453,79.30000305175781,Asia/Calcutta
+violation,warning,deny,3,GB,GBR,"United Kingdom",Edinburgh,55.95000076293945,-3.200000047683716,Europe/London
+violation,warning,deny,12,CN,CHN,China,Ningbo,29.87820053100586,121.54949951171875,Asia/Shanghai
+violation,warning,deny,3,MX,MEX,Mexico,"San Luis Potosí",22.149999618530273,-100.9832992553711,America/Mexico_City
+violation,warning,deny,3,CH,CHE,Switzerland,Allschwil,47.55070114135742,7.535999774932861,Europe/Zurich
+violation,warning,deny,5,UA,UKR,Ukraine,Dnepropetrovsk,48.4630012512207,35.03900146484375,Europe/Zaporozhye
+violation,warning,deny,3,IN,IND,India,Chandigarh,30.73430061340332,76.79329681396484,Asia/Calcutta
+violation,warning,deny,3,TH,THA,Thailand,"Na Klang",17.307199478149414,102.18890380859375,Asia/Bangkok
+violation,warning,deny,4,KR,KOR,"Korea, Republic of",Kwanghuidong,37.565399169921875,127.00289916992188,Asia/Seoul
+violation,warning,deny,3,US,USA,"United States",Bethany,35.51850128173828,-97.6427993774414,America/Chicago
+violation,warning,deny,3,US,USA,"United States",Corvallis,44.56420135498047,-123.27899932861328,America/Los_Angeles
+violation,warning,deny,4,US,USA,"United States",Cleveland,41.44110107421875,-81.74169921875,America/New_York
+violation,warning,deny,7,CN,CHN,China,Dongguan,23.033300399780273,113.7166976928711,Asia/Chongqing
+violation,warning,deny,3,AR,ARG,Argentina,Mendoza,-32.89080047607422,-68.82720184326172,America/Argentina/Mendoza
+violation,warning,deny,3,CA,CAN,Canada,Newmarket,44.05799865722656,-79.45259857177734,America/Rainy_River
+violation,warning,deny,3,PE,PER,Peru,Callao,-12.066699981689453,-77.1500015258789,America/Lima
+violation,warning,deny,3,BR,BRA,Brazil,"São José Dos Campos",-23.183300018310547,-45.88330078125,America/Sao_Paulo
+violation,warning,deny,4,CN,CHN,China,Yueqing,28.127199172973633,120.95359802246094,Asia/Shanghai
+violation,warning,deny,3,US,USA,"United States",Cortland,42.617801666259766,-76.19259643554688,America/New_York
+violation,warning,deny,4,RU,RUS,"Russian Federation",Altaisk,51.95330047607422,85.3324966430664,Asia/Novosibirsk
+violation,warning,deny,2,PH,PHL,Philippines,"Tagbilaran City",9.647500038146973,123.85559844970703,Asia/Manila
+violation,warning,deny,4,PL,POL,Poland,Polska,52.593101501464844,19.089399337768555,Europe/Warsaw
+violation,warning,deny,2,HR,HRV,Croatia,Koprivnica,46.16279983520508,16.827499389648438,Europe/Zagreb
+violation,warning,deny,2,VN,VNM,Vietnam,"Da Nang",16.067800521850586,108.2208023071289,Asia/Phnom_Penh
+violation,warning,deny,2,CN,CHN,China,Qidong,31.811100006103516,121.65499877929688,Asia/Shanghai
+violation,warning,deny,2,BR,BRA,Brazil,Indaial,-26.892200469970703,-49.223899841308594,America/Sao_Paulo
+violation,warning,deny,2,AO,AGO,Angola,Luanda,-8.836799621582031,13.233200073242188,Africa/Luanda
+violation,warning,deny,2,RS,SRB,Serbia,"Vrnjacka Banja",43.61669921875,20.899999618530273,Europe/Belgrade
+violation,warning,deny,4,RU,RUS,"Russian Federation",Neftekamsk,56.09199905395508,54.270301818847656,Europe/Samara
+violation,warning,deny,3,IL,ISR,Israel,Ashdod,31.79210090637207,34.64970016479492,Asia/Jerusalem
+violation,warning,deny,3,JP,JPN,Japan,Yokosuka,35.283599853515625,139.66720581054688,Asia/Tokyo
+violation,warning,deny,2,US,USA,"United States",Springfield,42.10150146484375,-72.58979797363281,America/New_York
+violation,warning,deny,2,DE,DEU,Germany,Hemsbach,49.59170150756836,8.646400451660156,Europe/Berlin
+violation,warning,deny,4,BG,BGR,Bulgaria,Dobrich,43.56669998168945,27.83329963684082,Europe/Sofia
+violation,warning,deny,2,US,USA,"United States",Southfield,42.4734001159668,-83.2219009399414,America/New_York
+violation,warning,deny,3,US,USA,"United States",Omaha,41.23400115966797,-96.1863021850586,America/Chicago
+violation,warning,deny,2,UA,UKR,Ukraine,Yasinovataya,48.129798889160156,37.85940170288086,Europe/Zaporozhye
+violation,warning,deny,2,GB,GBR,"United Kingdom",Birmingham,52.46670150756836,-1.916700005531311,Europe/London
+violation,warning,deny,2,US,USA,"United States",Spokane,47.659698486328125,-117.4291000366211,America/Los_Angeles
+violation,warning,deny,4,US,USA,"United States",Columbia,38.951698303222656,-92.33409881591797,America/Chicago
+violation,warning,deny,2,IR,IRN,"Iran, Islamic Republic of",Azad,36.812198638916016,45.93479919433594,Asia/Tehran
+violation,warning,deny,4,US,USA,"United States","Fort Huachuca",31.527299880981445,-110.36070251464844,America/Phoenix
+violation,warning,deny,2,US,USA,"United States","O Fallon",38.82509994506836,-90.72889709472656,America/Chicago
+violation,warning,deny,2,TR,TUR,Turkey,Ugur,37.18109893798828,41.95109939575195,Asia/Istanbul
+violation,warning,deny,2,MX,MEX,Mexico,Obregon,27.483299255371094,-109.93329620361328,America/Hermosillo
+violation,warning,deny,2,IT,ITA,Italy,Mendicino,39.25,16.183300018310547,Europe/Rome
+violation,warning,deny,2,RU,RUS,"Russian Federation",Barnaul,53.360599517822266,83.76360321044922,Asia/Novosibirsk
+violation,warning,deny,2,FR,FRA,France,Senones,48.39469909667969,6.9781999588012695,Europe/Paris
+violation,warning,deny,2,AU,AUS,Australia,Mascot,-33.93330001831055,151.1999969482422,Australia/NSW
+violation,warning,deny,2,CN,CHN,China,Weihai,37.50170135498047,122.11360168457031,Asia/Shanghai
+violation,warning,deny,2,IT,ITA,Italy,Arcore,45.61669921875,9.316699981689453,Europe/Rome
+violation,warning,deny,2,MY,MYS,Malaysia,"Teluk Panglima Garang",2.9166998863220215,101.4666976928711,Asia/Kuala_Lumpur
+violation,warning,deny,2,IN,IND,India,Asansol,23.683300018310547,86.9832992553711,Asia/Calcutta
+violation,warning,deny,5,DE,DEU,Germany,Berlin,52.516700744628906,13.399999618530273,Europe/Berlin
+violation,warning,deny,2,US,USA,"United States","New Brunswick",40.48350143432617,-74.44319915771484,America/New_York
+violation,warning,deny,2,IR,IRN,"Iran, Islamic Republic of",Tabriz,38.08000183105469,46.291900634765625,Asia/Tehran
+violation,warning,deny,2,UY,URY,Uruguay,Montevideo,-34.85810089111328,-56.170799255371094,America/Montevideo
+violation,warning,deny,2,US,USA,"United States",Dacula,33.97850036621094,-83.881103515625,America/New_York
+violation,warning,deny,4,US,USA,"United States","Silver Spring",39.004600524902344,-77.03690338134766,America/New_York
+violation,warning,deny,2,RU,RUS,"Russian Federation",Khotkovo,56.25,38.0,Europe/Moscow
+violation,warning,deny,2,PK,PAK,Pakistan,Lahore,31.549699783325195,74.34359741210938,Asia/Karachi
+violation,warning,deny,2,BR,BRA,Brazil,Chapecó,-27.08329963684082,-52.983299255371094,America/Sao_Paulo
+violation,warning,deny,9,RU,RUS,"Russian Federation",Novosibirsk,55.041500091552734,82.93460083007812,Asia/Novosibirsk
+violation,warning,deny,5,CN,CHN,China,Quanzhou,24.91390037536621,118.58580017089844,Asia/Shanghai
+violation,warning,deny,4,PH,PHL,Philippines,Pasig,15.09589958190918,120.81819915771484,Asia/Manila
+violation,warning,deny,2,US,USA,"United States",Northridge,33.786598205566406,-118.29869842529297,America/Los_Angeles
+violation,warning,deny,2,US,USA,"United States",Peoria,40.66780090332031,-89.61810302734375,America/Chicago
+violation,warning,deny,2,US,USA,"United States",Bronx,40.87670135498047,-73.90560150146484,America/New_York
+violation,warning,deny,3,TR,TUR,Turkey,Konya,37.87139892578125,32.48460006713867,Asia/Istanbul
+violation,warning,deny,5,RU,RUS,"Russian Federation","Nizhniy Novgorod",56.326900482177734,44.00749969482422,Europe/Moscow
+violation,warning,deny,2,BR,BRA,Brazil,"Coração De Jesus",-16.68440055847168,-44.36029815673828,America/Sao_Paulo
+violation,warning,deny,2,TR,TUR,Turkey,Gaziantep,37.05939865112305,37.38249969482422,Asia/Istanbul
+violation,warning,deny,3,PL,POL,Poland,Warsaw,52.25,21.0,Europe/Warsaw
+violation,warning,deny,3,RU,RUS,"Russian Federation",Perm,58.009300231933594,56.28409957885742,
+violation,warning,deny,2,US,USA,"United States",Tullahoma,35.351200103759766,-86.18379974365234,America/Chicago
+violation,warning,deny,2,US,USA,"United States","Saint Augustine",29.894699096679688,-81.31449890136719,America/New_York
+violation,warning,deny,2,IN,IND,India,Shimla,31.103300094604492,77.17220306396484,Asia/Calcutta
+violation,warning,deny,2,CN,CHN,China,Renqiu,38.69889831542969,116.09359741210938,Asia/Shanghai
+violation,warning,deny,2,GI,GIB,Gibraltar,Gibraltar,36.13330078125,-5.349999904632568,Europe/Gibraltar
+violation,warning,deny,2,US,USA,"United States",Olathe,38.85179901123047,-94.77860260009766,America/Chicago
+violation,warning,deny,2,BG,BGR,Bulgaria,Sofia,42.68330001831055,23.316699981689453,Europe/Sofia
+violation,warning,deny,3,OM,OMN,Oman,Ruwi,23.590599060058594,58.54999923706055,Asia/Muscat
+violation,warning,deny,2,US,USA,"United States",Oakvale,37.33430099487305,-80.96260070800781,America/New_York
+violation,warning,deny,4,US,USA,"United States",Gainesville,34.26240158081055,-83.77369689941406,America/New_York
+violation,warning,deny,2,AU,AUS,Australia,"Surry Hills",-33.88330078125,151.21670532226562,Australia/NSW
+violation,warning,deny,2,AR,ARG,Argentina,"Villa Nueva",-32.89720153808594,-68.78040313720703,America/Argentina/Mendoza
+violation,warning,deny,2,US,USA,"United States",Hillsdale,41.861900329589844,-84.60379791259766,America/New_York
+violation,warning,deny,2,UA,UKR,Ukraine,Simferopol,44.95719909667969,34.110801696777344,Europe/Simferopol
+violation,warning,deny,2,PH,PHL,Philippines,Bagumbayan,13.449999809265137,123.66670227050781,Asia/Manila
+violation,warning,deny,2,VN,VNM,Vietnam,"Long An",10.467100143432617,105.48619842529297,Asia/Phnom_Penh
+violation,warning,deny,2,US,USA,"United States","Boca Raton",26.358699798583984,-80.08309936523438,America/New_York
+violation,warning,deny,2,IR,IRN,"Iran, Islamic Republic of",Pishgaman,37.2682991027832,48.441898345947266,Asia/Tehran
+violation,warning,deny,2,BE,BEL,Belgium,Namur,50.46670150756836,4.866700172424316,Europe/Brussels
+violation,warning,deny,2,UA,UKR,Ukraine,Kurilov,50.55350112915039,34.721900939941406,Europe/Kiev
+violation,warning,deny,3,CN,CHN,China,Sanming,26.248600006103516,117.61859893798828,Asia/Shanghai
+violation,warning,deny,2,US,USA,"United States","Sterling Heights",42.580299377441406,-83.03019714355469,America/New_York
+violation,warning,deny,3,CN,CHN,China,Daqing,41.723899841308594,123.20169830322266,Asia/Harbin
+violation,warning,deny,2,PH,PHL,Philippines,Roosevelt,9.793299674987793,123.90650177001953,Asia/Manila
+violation,warning,deny,2,MY,MYS,Malaysia,"Seri Kembangan",3.0332999229431152,101.7166976928711,Asia/Kuala_Lumpur
+violation,warning,deny,2,CH,CHE,Switzerland,Bern,46.91669845581055,7.466700077056885,Europe/Zurich
+violation,warning,deny,2,IR,IRN,"Iran, Islamic Republic of",Sabz,37.43149948120117,47.78739929199219,Asia/Tehran
+violation,warning,deny,2,CN,CHN,China,Huzhou,30.87030029296875,120.09329986572266,Asia/Shanghai
+violation,warning,deny,3,BR,BRA,Brazil,Cascavel,-24.950000762939453,-53.46670150756836,America/Sao_Paulo
+violation,warning,deny,2,GB,GBR,"United Kingdom",Glasgow,55.83330154418945,-4.25,Europe/London
+violation,warning,deny,2,ES,ESP,Spain,Erandio,43.30550003051758,-2.9458000659942627,Europe/Madrid
+violation,warning,deny,2,AT,AUT,Austria,"Bad Voslau",47.96670150756836,16.200000762939453,Europe/Vienna
+violation,warning,deny,2,US,USA,"United States",Anaheim,33.85020065307617,-117.79119873046875,America/Los_Angeles
+violation,warning,deny,2,HK,HKG,"Hong Kong","Kwun Tong",22.316699981689453,114.2166976928711,Asia/Hong_Kong
+violation,warning,deny,2,ID,IDN,Indonesia,Purbalingga,-7.3881001472473145,109.36389923095703,Asia/Jakarta
+violation,warning,deny,2,ES,ESP,Spain,Valencia,39.46670150756836,-0.3666999936103821,Europe/Madrid
+violation,warning,deny,2,ID,IDN,Indonesia,Bekasi,-6.234899997711182,106.9896011352539,Asia/Jakarta
+violation,warning,deny,2,IN,IND,India,Vadodara,22.299999237060547,73.19999694824219,Asia/Calcutta
+violation,warning,deny,2,US,USA,"United States",Lansing,42.72570037841797,-84.63600158691406,America/New_York
+violation,warning,deny,4,CN,CHN,China,Nantong,32.03030014038086,120.87470245361328,Asia/Shanghai
+violation,warning,deny,2,US,USA,"United States","South Bend",41.672698974609375,-86.25129699707031,America/Indianapolis
+violation,warning,deny,2,RU,RUS,"Russian Federation",Elabuga,55.76129913330078,52.06489944458008,Europe/Samara
+violation,warning,deny,2,IR,IRN,"Iran, Islamic Republic of",Mashhad,36.297000885009766,59.606201171875,Asia/Tehran
+violation,warning,deny,3,CN,CHN,China,Shijiazhuang,39.07279968261719,114.87310028076172,Asia/Shanghai
+violation,warning,deny,2,PH,PHL,Philippines,Liberty,10.874199867248535,125.00250244140625,Asia/Manila
+violation,warning,deny,3,US,USA,"United States",Naperville,41.77009963989258,-88.1404037475586,America/Chicago
+violation,warning,deny,4,RU,RUS,"Russian Federation",Nizhnevartovsk,60.93439865112305,76.5531005859375,Asia/Omsk
+violation,warning,deny,2,IR,IRN,"Iran, Islamic Republic of",Mihan,36.14289855957031,49.472801208496094,Asia/Tehran
+violation,warning,deny,2,CN,CHN,China,Zhongshan,21.322599411010742,110.58290100097656,Asia/Chongqing
+violation,warning,deny,2,TT,TTO,"Trinidad and Tobago",Lowlands,11.149999618530273,-60.78329849243164,America/Port_of_Spain
+violation,warning,deny,3,US,USA,"United States","Santa Barbara",34.432899475097656,-119.83709716796875,America/Los_Angeles
+violation,warning,deny,2,ZA,ZAF,"South Africa","Cape Town",-33.92580032348633,18.423200607299805,Africa/Johannesburg
+violation,warning,deny,2,BR,BRA,Brazil,Jaguariúna,-22.683300018310547,-46.983299255371094,America/Sao_Paulo
+violation,warning,deny,2,TH,THA,Thailand,"Chiang Rai",19.908599853515625,99.8324966430664,Asia/Bangkok
+violation,warning,deny,2,FR,FRA,France,Lons-le-saunier,46.67539978027344,5.555699825286865,Europe/Paris
+violation,warning,deny,3,KZ,KAZ,Kazakhstan,Karaganda,49.79890060424805,73.09940338134766,Asia/Qyzylorda
+violation,warning,deny,2,IN,IND,India,Guntur,16.299999237060547,80.44999694824219,Asia/Calcutta
+violation,warning,deny,5,US,USA,"United States",Columbus,40.08420181274414,-82.93779754638672,America/New_York
+violation,warning,deny,2,VC,VCT,"Saint Vincent and the Grenadines",Kingstown,13.133299827575684,-61.21670150756836,America/St_Vincent
+violation,warning,deny,2,US,USA,"United States",Sarasota,27.218700408935547,-82.47100067138672,America/New_York
+violation,warning,deny,5,IN,IND,India,Salai,22.316699981689453,85.33329772949219,Asia/Calcutta
+violation,warning,deny,2,US,USA,"United States",Montpelier,44.259498596191406,-72.58499908447266,America/New_York
+violation,warning,deny,5,TR,TUR,Turkey,Kars,40.60200119018555,43.09489822387695,Asia/Istanbul
+violation,warning,deny,2,AT,AUT,Austria,Hallein,47.68330001831055,13.100000381469727,Europe/Vienna
+violation,warning,deny,3,IN,IND,India,Bhilai,21.216699600219727,81.43329620361328,Asia/Calcutta
+violation,warning,deny,2,US,USA,"United States",Plymouth,45.04690170288086,-93.42659759521484,America/Chicago
+violation,warning,deny,2,US,USA,"United States",Moline,41.50669860839844,-90.51509857177734,America/Chicago
+violation,warning,deny,3,ES,ESP,Spain,Pamplona,42.8140983581543,-1.6411999464035034,Europe/Madrid
+violation,warning,deny,4,US,USA,"United States",Burlington,42.50510025024414,-71.20469665527344,America/New_York
+violation,warning,deny,2,MY,MYS,Malaysia,Penang,5.411200046539307,100.33540344238281,Asia/Kuala_Lumpur
+violation,warning,deny,2,US,USA,"United States",Easthampton,42.29029846191406,-72.6404037475586,America/New_York
+violation,warning,deny,5,VE,VEN,Venezuela,Caracas,10.5,-66.91670227050781,America/Caracas
+violation,warning,deny,2,US,USA,"United States",Boston,42.35710144042969,-71.06549835205078,America/New_York
+violation,warning,deny,2,MX,MEX,Mexico,Toluca,19.288299560546875,-99.66719818115234,America/Chihuahua
+violation,warning,deny,2,PL,POL,Poland,Bobolice,53.95589828491211,16.58919906616211,Europe/Warsaw
+violation,warning,deny,2,US,USA,"United States",Melbourne,28.21190071105957,-80.75830078125,America/New_York
+violation,warning,deny,1,BG,BGR,Bulgaria,Ravda,42.650001525878906,27.683300018310547,Europe/Sofia
+violation,warning,deny,1,JP,JPN,Japan,Nagasaki,32.74470138549805,129.87359619140625,Asia/Tokyo
+violation,warning,deny,1,GB,GBR,"United Kingdom",Epping,51.70000076293945,0.11670000106096268,Europe/London
+violation,warning,deny,1,BR,BRA,Brazil,Barueri,-23.516700744628906,-46.88330078125,America/Sao_Paulo
+violation,warning,deny,1,US,USA,"United States",Golden,40.13600158691406,-91.00830078125,America/Chicago
+violation,warning,deny,1,FR,FRA,France,"Le Porge",44.872798919677734,-1.0888999700546265,Europe/Paris
+violation,warning,deny,1,RU,RUS,"Russian Federation",Bryansk,53.25210189819336,34.371700286865234,Europe/Moscow
+violation,warning,deny,1,US,USA,"United States","Oklahoma City",35.515098571777344,-97.5740966796875,America/Chicago
+violation,warning,deny,1,PL,POL,Poland,Elk,53.826499938964844,22.365400314331055,Europe/Warsaw
+violation,warning,deny,1,IT,ITA,Italy,Favara,37.31669998168945,13.649999618530273,Europe/Rome
+violation,warning,deny,2,US,USA,"United States",Bellevue,41.14250183105469,-95.89510345458984,America/Chicago
+violation,warning,deny,1,CN,CHN,China,Changshu,31.644500732421875,120.73799896240234,Asia/Shanghai
+violation,warning,deny,1,JP,JPN,Japan,Koshigaya,35.88330078125,139.78329467773438,Asia/Tokyo
+violation,warning,deny,5,TH,THA,Thailand,Nonthaburi,13.862199783325195,100.51339721679688,Asia/Bangkok
+violation,warning,deny,1,ES,ESP,Spain,Sevilla,37.38240051269531,-5.976099967956543,Africa/Ceuta
+violation,warning,deny,1,CN,CHN,China,Zhongxing,33.70389938354492,118.67919921875,Asia/Shanghai
+violation,warning,deny,1,ID,IDN,Indonesia,Karawang,-6.303299903869629,107.30560302734375,Asia/Jakarta
+violation,warning,deny,1,US,USA,"United States",Woodway,31.510499954223633,-97.2645034790039,America/Chicago
+violation,warning,deny,3,US,USA,"United States",Dublin,32.464298248291016,-82.94950103759766,America/New_York
+violation,warning,deny,1,RU,RUS,"Russian Federation",Tambov,52.7317008972168,41.44329833984375,Europe/Moscow
+violation,warning,deny,1,PH,PHL,Philippines,"Bacolod City",10.667699813842773,122.95330047607422,Asia/Manila
+violation,warning,deny,1,CN,CHN,China,Puyang,35.70280075073242,115.00530242919922,Asia/Shanghai
+violation,warning,deny,1,ZA,ZAF,"South Africa",Benoni,-26.190900802612305,28.31130027770996,Africa/Johannesburg
+violation,warning,deny,3,CN,CHN,China,Xuzhou,34.18050003051758,117.15709686279297,Asia/Shanghai
+violation,warning,deny,1,US,USA,"United States",Stratford,44.79280090332031,-90.08300018310547,America/Chicago
+violation,warning,deny,1,IN,IND,India,Jalandhar,31.325599670410156,75.5792007446289,Asia/Calcutta
+violation,warning,deny,1,PL,POL,Poland,"Nowy Wisnicz",49.91550064086914,20.46139907836914,Europe/Warsaw
+violation,warning,deny,1,RU,RUS,"Russian Federation",Orël,52.9650993347168,36.07849884033203,Europe/Moscow
+violation,warning,deny,1,BR,BRA,Brazil,Cariacica,-20.266700744628906,-40.41669845581055,America/Sao_Paulo
+violation,warning,deny,1,GU,GUM,Guam,Yigo,13.444299697875977,144.7863006591797,Pacific/Guam
+violation,warning,deny,1,US,USA,"United States",Kernersville,36.11989974975586,-80.07369995117188,America/New_York
+violation,warning,deny,1,CA,CAN,Canada,Ottawa,45.41669845581055,-75.69999694824219,America/Rainy_River
+violation,warning,deny,1,TR,TUR,Turkey,Samsun,41.28670120239258,36.33000183105469,Asia/Istanbul
+violation,warning,deny,1,DE,DEU,Germany,Saarbrücken,49.233299255371094,7.0,Europe/Berlin
+violation,warning,deny,1,CN,CHN,China,Nanhan,34.34579849243164,108.51280212402344,Asia/Chongqing
+violation,warning,deny,1,ES,ESP,Spain,Alagón,41.76959991455078,-1.1190999746322632,Europe/Madrid
+violation,warning,deny,1,CN,CHN,China,Ruian,27.775999069213867,120.65859985351562,Asia/Shanghai
+violation,warning,deny,1,GB,GBR,"United Kingdom",Stoke-on-trent,53.0,-2.183300018310547,Europe/London
+violation,warning,deny,1,US,USA,"United States",Scranton,41.409000396728516,-75.66239929199219,America/New_York
+violation,warning,deny,2,US,USA,"United States",Jacksonville,30.324600219726562,-81.68509674072266,America/New_York
+violation,warning,deny,2,RU,RUS,"Russian Federation",Achinsk,56.26940155029297,90.49929809570312,Asia/Krasnoyarsk
+violation,warning,deny,1,JP,JPN,Japan,Tokai,35.58330154418945,139.76499938964844,Asia/Tokyo
+violation,warning,deny,1,MY,MYS,Malaysia,"Johor Bahru",1.465499997138977,103.75779724121094,Asia/Kuala_Lumpur
+violation,warning,deny,1,US,USA,"United States",Rockville,39.08919906616211,-77.18350219726562,America/New_York
+violation,warning,deny,1,TH,THA,Thailand,"Nakhon Ratchasima",14.971599578857422,102.0824966430664,Asia/Bangkok
+violation,warning,deny,1,BR,BRA,Brazil,"São Bernardo Do Campo",-23.700000762939453,-46.54999923706055,America/Sao_Paulo
+violation,warning,deny,1,US,USA,"United States",Roseville,38.743900299072266,-121.25579833984375,America/Los_Angeles
+violation,warning,deny,1,GB,GBR,"United Kingdom",Windsor,51.483299255371094,-0.6000000238418579,Europe/London
+violation,warning,deny,1,DE,DEU,Germany,Freising,48.400001525878906,11.73330020904541,Europe/Berlin
+violation,warning,deny,1,US,USA,"United States","Fort Lee",40.84830093383789,-73.97250366210938,America/New_York
+violation,warning,deny,1,US,USA,"United States",Oceanside,33.200401306152344,-117.29070281982422,America/Los_Angeles
+violation,warning,deny,1,TR,TUR,Turkey,Bursa,40.19169998168945,29.061100006103516,Asia/Istanbul
+violation,warning,deny,1,BY,BLR,Belarus,Grodno,53.935298919677734,28.643400192260742,Europe/Minsk
+violation,warning,deny,1,UA,UKR,Ukraine,Chernivtsi,48.291500091552734,25.94029998779297,Europe/Uzhgorod
+violation,warning,deny,1,JP,JPN,Japan,Machida,35.54029846191406,139.4508056640625,Asia/Tokyo
+violation,warning,deny,2,CN,CHN,China,Changzhou,31.783300399780273,119.9666976928711,Asia/Shanghai
+violation,warning,deny,2,RU,RUS,"Russian Federation",Tomsk,56.49420166015625,84.97419738769531,Asia/Novosibirsk
+violation,warning,deny,2,BR,BRA,Brazil,"Belo Horizonte",-19.91670036315918,-43.93330001831055,America/Sao_Paulo
+violation,warning,deny,1,US,USA,"United States",Pasadena,34.16130065917969,-118.0895004272461,America/Los_Angeles
+violation,warning,deny,1,BR,BRA,Brazil,Teresópolis,-22.424100875854492,-42.96799850463867,America/Sao_Paulo
+violation,warning,deny,1,IN,IND,India,Secunderabad,17.450000762939453,78.5,Asia/Calcutta
+violation,warning,deny,1,BR,BRA,Brazil,"Feira De Santana",-12.25,-38.95000076293945,America/Bahia
+violation,warning,deny,1,US,USA,"United States",Norwalk,41.12710189819336,-73.44159698486328,America/New_York
+violation,warning,deny,3,AM,ARM,Armenia,Yerevan,40.18109893798828,44.51359939575195,Asia/Yerevan
+violation,warning,deny,1,CN,CHN,China,Qingtian,27.54520034790039,119.45179748535156,Asia/Shanghai
+violation,warning,deny,1,RU,RUS,"Russian Federation",Nalchik,43.49810028076172,43.618900299072266,Europe/Volgograd
+violation,warning,deny,1,US,USA,"United States","Monroe Township",40.330501556396484,-74.41790008544922,America/New_York
+violation,warning,deny,1,CN,CHN,China,Baoji,34.36589813232422,107.35900115966797,Asia/Chongqing
+violation,warning,deny,1,AE,ARE,"United Arab Emirates","Abu Dhabi",24.466699600219727,54.36669921875,Asia/Dubai
+violation,warning,deny,1,BG,BGR,Bulgaria,Rousse,43.85639953613281,25.970800399780273,Europe/Sofia
+violation,warning,deny,1,TW,TWN,Taiwan,Homei,24.112199783325195,120.497802734375,Asia/Taipei
+violation,warning,deny,1,RU,RUS,"Russian Federation",Tyumen,57.152198791503906,65.5271987915039,Asia/Yekaterinburg
+violation,warning,deny,1,CA,CAN,Canada,Blainville,45.67300033569336,-73.87999725341797,America/Montreal
+violation,warning,deny,1,ID,IDN,Indonesia,"Tambun Selatan",-6.168700218200684,106.9645004272461,Asia/Jakarta
+violation,warning,deny,1,RU,RUS,"Russian Federation",Ust-labinsk,45.21440124511719,39.69029998779297,Europe/Volgograd
+violation,warning,deny,1,TH,THA,Thailand,Songkhla,7.198800086975098,100.59510040283203,Asia/Bangkok
+violation,warning,deny,1,JP,JPN,Japan,Sumida,35.733299255371094,139.8166961669922,Asia/Tokyo
+violation,warning,deny,1,PH,PHL,Philippines,Cavite,14.477800369262695,120.89320373535156,Asia/Manila
+violation,warning,deny,1,FR,FRA,France,Clichy,48.90019989013672,2.309499979019165,Europe/Paris
+violation,warning,deny,1,US,USA,"United States",Frenchville,41.13669967651367,-78.25170135498047,America/New_York
+violation,warning,deny,1,IN,IND,India,Bhubaneswar,20.233299255371094,85.83329772949219,Asia/Calcutta
+violation,warning,deny,1,CN,CHN,China,Huaian,33.50389862060547,119.14420318603516,Asia/Shanghai
+violation,warning,deny,3,JO,JOR,Jordan,Amman,31.950000762939453,35.93330001831055,Asia/Amman
+violation,warning,deny,1,US,USA,"United States",Benton,32.713199615478516,-93.64140319824219,America/Chicago
+violation,warning,deny,1,UA,UKR,Ukraine,Perevalsk,48.437801361083984,38.84379959106445,Europe/Zaporozhye
+violation,warning,deny,1,US,USA,"United States",Cudahy,42.948001861572266,-87.86509704589844,America/Chicago
+violation,warning,deny,2,ID,IDN,Indonesia,Bogor,-6.594399929046631,106.78919982910156,Asia/Jakarta
+violation,warning,deny,1,HK,HKG,"Hong Kong","Sai Ying Pun",22.283300399780273,114.13330078125,Asia/Hong_Kong
+violation,warning,deny,1,FR,FRA,France,Saint-gervasy,43.87689971923828,4.46589994430542,Europe/Paris
+violation,warning,deny,1,ES,ESP,Spain,Gijón,43.535701751708984,-5.661499977111816,Europe/Madrid
+violation,warning,deny,1,RU,RUS,"Russian Federation",Trubino,55.98830032348633,38.12860107421875,Europe/Moscow
+violation,warning,deny,1,GB,GBR,"United Kingdom",Broadstairs,51.36669921875,1.4500000476837158,Europe/London
+violation,warning,deny,1,US,USA,"United States","Rohnert Park",38.343299865722656,-122.7041015625,America/Los_Angeles
+violation,warning,deny,1,JP,JPN,Japan,Inagi,35.634498596191406,139.55880737304688,Asia/Tokyo
+violation,warning,deny,1,US,USA,"United States",Itasca,41.97079849243164,-88.01789855957031,America/Chicago
+violation,warning,deny,1,AR,ARG,Argentina,Martinez,-34.489898681640625,-58.51110076904297,America/Argentina/Buenos_Aires
+violation,warning,deny,1,ZA,ZAF,"South Africa",Rustenburg,-25.667600631713867,27.24209976196289,Africa/Johannesburg
+violation,warning,deny,1,FR,FRA,France,Brunstatt,47.720001220703125,7.317800045013428,Europe/Paris
+violation,warning,deny,1,US,USA,"United States","Mill Valley",37.90599822998047,-122.54499816894531,America/Los_Angeles
+violation,warning,deny,1,PT,PRT,Portugal,"Rio De Mouro",38.774600982666016,-9.32759952545166,Europe/Lisbon
+violation,warning,deny,1,DZ,DZA,Algeria,Sétif,36.19139862060547,5.40939998626709,Africa/Algiers
+violation,warning,deny,1,RU,RUS,"Russian Federation",Shumerlya,55.5004997253418,46.412899017333984,Europe/Samara
+violation,warning,deny,1,AR,ARG,Argentina,Moreno,-34.46329879760742,-58.92919921875,America/Argentina/Buenos_Aires
+violation,warning,deny,1,BR,BRA,Brazil,Jaú,-22.299999237060547,-48.54999923706055,America/Sao_Paulo
+violation,warning,deny,1,PH,PHL,Philippines,Biñan,14.263699531555176,121.05259704589844,Asia/Manila
+violation,warning,deny,1,ES,ESP,Spain,"Torres De La Alameda",40.4025993347168,-3.3577001094818115,Europe/Madrid
+violation,warning,deny,1,RU,RUS,"Russian Federation",Gatchina,59.57640075683594,30.128299713134766,Europe/Moscow
+violation,warning,deny,2,RU,RUS,"Russian Federation",Surgut,61.25,73.41670227050781,Asia/Omsk
+violation,warning,deny,1,BR,BRA,Brazil,Guanambi,-14.216699600219727,-42.78329849243164,America/Bahia
+violation,warning,deny,1,CN,CHN,China,Shuozhou,39.315799713134766,112.42250061035156,Asia/Chongqing
+violation,warning,deny,1,GB,GBR,"United Kingdom",Widnes,53.349998474121094,-2.733299970626831,Europe/London
+violation,warning,deny,1,RU,RUS,"Russian Federation",Vyksa,55.317501068115234,42.174400329589844,Europe/Moscow
+violation,warning,deny,1,RU,RUS,"Russian Federation",Yuzhno-sakhalinsk,46.958099365234375,142.73370361328125,Asia/Sakhalin
+violation,warning,deny,1,CN,CHN,China,Xiangtan,28.64109992980957,111.77890014648438,Asia/Chongqing
+violation,warning,deny,1,IT,ITA,Italy,"San Giuliano Terme",43.766700744628906,10.433300018310547,Europe/Rome
+violation,warning,deny,2,GB,GBR,"United Kingdom",Portsmouth,50.79669952392578,-1.083299994468689,Europe/London
+violation,warning,deny,1,AL,ALB,Albania,Shkodër,42.067501068115234,19.513099670410156,Europe/Tirane
+violation,warning,deny,1,RU,RUS,"Russian Federation",Pskov,57.8135986328125,28.349599838256836,Europe/Kaliningrad
+violation,warning,deny,1,VN,VNM,Vietnam,"Quy Nhon",13.76669979095459,109.2332992553711,Asia/Phnom_Penh
+violation,warning,deny,1,IE,IRL,Ireland,Limerick,52.66469955444336,-8.623100280761719,Europe/Dublin
+violation,warning,deny,1,CN,CHN,China,Nandu,22.852500915527344,110.82330322265625,Asia/Chongqing
+violation,warning,deny,1,BR,BRA,Brazil,Catalão,-18.16670036315918,-47.95000076293945,America/Sao_Paulo
+violation,warning,deny,1,ID,IDN,Indonesia,Depok,-6.343299865722656,106.4989013671875,Asia/Jakarta
+violation,warning,deny,1,US,USA,"United States",Kinston,35.23749923706055,-77.61509704589844,America/New_York
+violation,warning,deny,1,US,USA,"United States","Fort Myers",26.52989959716797,-81.6906967163086,America/New_York
+violation,warning,deny,1,IN,IND,India,Vasai,19.350000381469727,72.80000305175781,Asia/Calcutta
+violation,warning,deny,1,PL,POL,Poland,Sosnowiec,50.27220153808594,19.155000686645508,Europe/Warsaw
+violation,warning,deny,1,IR,IRN,"Iran, Islamic Republic of",Tehran,35.72610092163086,51.33039855957031,Asia/Tehran
+violation,warning,deny,1,FR,FRA,France,Cholet,47.06079864501953,-0.8755000233650208,Europe/Paris
+violation,warning,deny,1,CA,CAN,Canada,Edmonton,53.54999923706055,-113.5,America/Edmonton
+violation,warning,deny,1,CN,CHN,China,Yanji,42.771400451660156,129.4232940673828,Asia/Harbin
+violation,warning,deny,1,RU,RUS,"Russian Federation",Yaroslavl,57.61980056762695,39.85540008544922,Europe/Moscow
+violation,warning,deny,1,CN,CHN,China,Shapingba,29.566099166870117,106.45469665527344,Asia/Chongqing
+violation,warning,deny,1,MU,MUS,Mauritius,Floréal,-20.30940055847168,57.50080108642578,Indian/Mauritius
+violation,warning,deny,1,TH,THA,Thailand,"Chiang Mai",18.7903995513916,98.98470306396484,Asia/Bangkok
+violation,warning,deny,1,BR,BRA,Brazil,Palmas,-10.222800254821777,-48.277801513671875,America/Araguaina
+violation,warning,deny,1,BR,BRA,Brazil,Campinas,-22.899999618530273,-47.08330154418945,America/Sao_Paulo
+violation,warning,deny,3,MY,MYS,Malaysia,Ampang,3.1500000953674316,101.7667007446289,Asia/Kuala_Lumpur
+violation,warning,deny,1,FR,FRA,France,"La Ciotat",43.17599868774414,5.607900142669678,Europe/Paris
+violation,warning,deny,1,CA,CAN,Canada,"Thunder Bay",48.400001525878906,-89.2332992553711,America/Rainy_River
+violation,warning,deny,1,JP,JPN,Japan,Kurayoshi,35.43330001831055,133.8166961669922,Asia/Tokyo
+violation,warning,deny,1,GT,GTM,Guatemala,"Guatemala City",14.621100425720215,-90.52690124511719,America/Guatemala
+violation,warning,deny,2,PH,PHL,Philippines,"Ugong Norte",14.592499732971191,121.07119750976562,Asia/Manila
+violation,warning,deny,1,KR,KOR,"Korea, Republic of",Mokpo,34.79359817504883,126.38860321044922,Asia/Seoul
+violation,warning,deny,1,US,USA,"United States","West Chester",39.33760070800781,-84.40440368652344,America/New_York
+violation,warning,deny,1,VN,VNM,Vietnam,"Vinh Phuc",15.616700172424316,108.4832992553711,Asia/Phnom_Penh
+violation,warning,deny,1,IN,IND,India,Moradabad,28.83329963684082,78.7833023071289,Asia/Calcutta
+violation,warning,deny,1,PL,POL,Poland,Gdansk,54.360801696777344,18.658300399780273,Europe/Warsaw
+violation,warning,deny,1,JP,JPN,Japan,Ayase,35.38650131225586,139.4174041748047,Asia/Tokyo
+violation,warning,deny,2,TH,THA,Thailand,Pattaya,12.933300018310547,100.88330078125,Asia/Bangkok
+violation,warning,deny,1,VN,VNM,Vietnam,"Quang Ngai",15.116700172424316,108.80000305175781,Asia/Phnom_Penh
+violation,warning,deny,1,US,USA,"United States",Montebello,34.00920104980469,-118.1082992553711,America/Los_Angeles
+violation,warning,deny,1,GB,GBR,"United Kingdom",Isleworth,51.46670150756836,-0.33329999446868896,Europe/London
+violation,warning,deny,1,US,USA,"United States",Catasauqua,40.65629959106445,-75.46610260009766,America/New_York
+violation,warning,deny,1,CO,COL,Colombia,Cali,3.4372000694274902,-76.52249908447266,America/Bogota
+violation,warning,deny,1,US,USA,"United States",Wichita,37.66809844970703,-97.37000274658203,America/Chicago
+violation,warning,deny,1,BR,BRA,Brazil,Taguatinga,-15.83329963684082,-48.056400299072266,America/Sao_Paulo
+violation,warning,deny,1,AE,ARE,"United Arab Emirates",Sharjah,25.3572998046875,55.40330123901367,Asia/Dubai
+violation,warning,deny,1,US,USA,"United States",Germantown,39.13169860839844,-77.28800201416016,America/New_York
+violation,warning,deny,2,UA,UKR,Ukraine,Vinnitsa,49.2327995300293,28.481000900268555,Europe/Kiev
+violation,warning,deny,1,SK,SVK,Slovakia,Bratislava,48.150001525878906,17.11669921875,Europe/Bratislava
+violation,warning,deny,1,UA,UKR,Ukraine,Stakhanov,48.568199157714844,38.64350128173828,Europe/Zaporozhye
+violation,warning,deny,1,SV,SLV,"El Salvador",Mejicanos,13.740300178527832,-89.21309661865234,America/El_Salvador
+violation,warning,deny,1,GB,GBR,"United Kingdom",Bristol,51.45000076293945,-2.5833001136779785,Europe/London
+violation,warning,deny,1,US,USA,"United States","Lake Charles",30.21310043334961,-93.20439910888672,America/Chicago
+violation,warning,deny,1,BG,BGR,Bulgaria,Montana,43.412498474121094,23.225000381469727,Europe/Sofia
+violation,warning,deny,2,CN,CHN,China,Quzhou,28.959400177001953,118.86859893798828,Asia/Shanghai
+violation,warning,deny,1,VN,VNM,Vietnam,"Hai Phong",20.85610008239746,106.68219757080078,Asia/Phnom_Penh
+violation,warning,deny,1,AE,ARE,"United Arab Emirates",Deira,25.273099899291992,55.306400299072266,Asia/Dubai
+violation,warning,deny,1,PH,PHL,Philippines,Parañaque,14.509400367736816,120.99310302734375,Asia/Manila
+violation,warning,deny,1,PL,POL,Poland,Tyczyn,51.51139831542969,18.851200103759766,Europe/Warsaw
+violation,warning,deny,1,HN,HND,Honduras,Tegucigalpa,14.100000381469727,-87.2166976928711,America/Tegucigalpa
+violation,warning,deny,1,US,USA,"United States",Conway,36.423500061035156,-77.27290344238281,America/New_York
+violation,warning,deny,2,DE,DEU,Germany,"Frankfurt Am Main",50.11669921875,8.683300018310547,Europe/Berlin
+violation,warning,deny,1,US,USA,"United States","Santa Ana",33.745601654052734,-117.8677978515625,America/Los_Angeles
+violation,warning,deny,1,MX,MEX,Mexico,"Ciudad De México",19.434200286865234,-99.13860321044922,America/Mexico_City
+violation,warning,deny,1,DE,DEU,Germany,Krefeld,51.33330154418945,6.566699981689453,Europe/Berlin
+violation,warning,deny,1,US,USA,"United States","Spring Hill",28.476900100708008,-82.52549743652344,America/New_York
+violation,warning,deny,1,BR,BRA,Brazil,Maringá,-23.41670036315918,-51.91669845581055,America/Sao_Paulo
+violation,warning,deny,1,US,USA,"United States",Roseland,40.822200775146484,-74.30449676513672,America/New_York
+violation,warning,deny,1,US,USA,"United States","New Orleans",29.95050048828125,-90.20570373535156,America/Chicago
+violation,warning,deny,1,US,USA,"United States",Irvington,40.72600173950195,-74.23320007324219,America/New_York
+violation,warning,deny,1,EG,EGY,Egypt,Misr,30.049999237060547,31.25,Africa/Cairo
+violation,warning,deny,1,DE,DEU,Germany,Willich,51.266700744628906,6.550000190734863,Europe/Berlin
+violation,warning,deny,1,US,USA,"United States",Houston,29.868799209594727,-95.53800201416016,America/Chicago
+violation,warning,deny,1,MA,MAR,Morocco,Marrakech,31.631500244140625,-8.008299827575684,Africa/Casablanca
+violation,warning,deny,1,RU,RUS,"Russian Federation",Dzerzhinskiy,55.629398345947266,37.85649871826172,Europe/Moscow
+violation,warning,deny,2,GR,GRC,Greece,Athens,37.983299255371094,23.733299255371094,Europe/Athens
+violation,warning,deny,1,RU,RUS,"Russian Federation",Blagoveshchensk,50.266700744628906,127.5333023071289,Asia/Vladivostok
+violation,warning,deny,1,BR,BRA,Brazil,"Santo André",-23.66670036315918,-46.516700744628906,America/Sao_Paulo
+violation,warning,deny,2,RU,RUS,"Russian Federation",Magnitogorsk,53.41859817504883,59.04719924926758,Asia/Yekaterinburg
+violation,warning,deny,1,KR,KOR,"Korea, Republic of",Ansan,37.32360076904297,126.8218994140625,Asia/Seoul
+violation,warning,deny,1,US,USA,"United States",Maitland,28.62779998779297,-81.36309814453125,America/New_York
+violation,warning,deny,1,BR,BRA,Brazil,"São José Do Rio Prêto",-20.799999237060547,-49.38330078125,America/Sao_Paulo
+violation,warning,deny,1,BR,BRA,Brazil,Florianópolis,-27.58329963684082,-48.56669998168945,America/Sao_Paulo
+violation,warning,deny,1,UA,UKR,Ukraine,Kherson,46.655799865722656,32.617801666259766,Europe/Simferopol
+violation,warning,deny,1,RU,RUS,"Russian Federation",Roslavl,53.95280075073242,32.86389923095703,Europe/Moscow
+violation,warning,deny,1,KR,KOR,"Korea, Republic of",Bucheon,37.4989013671875,126.78309631347656,Asia/Seoul
+violation,warning,deny,1,US,USA,"United States",Brockton,42.0796012878418,-71.03820037841797,America/New_York
+violation,warning,deny,1,CY,CYP,Cyprus,Larnaca,34.91669845581055,33.62919998168945,Asia/Nicosia
+violation,warning,deny,1,UA,UKR,Ukraine,Energodar,47.5,34.46670150756836,Europe/Zaporozhye
+violation,warning,deny,1,BR,BRA,Brazil,"Jandaia Do Sul",-23.600000381469727,-51.650001525878906,America/Sao_Paulo
+violation,warning,deny,1,RU,RUS,"Russian Federation",Tikhvin,59.64509963989258,33.52939987182617,Europe/Moscow
+violation,warning,deny,1,US,USA,"United States",Gardena,33.88840103149414,-118.30899810791016,America/Los_Angeles
+violation,warning,deny,1,CL,CHL,Chile,Osorno,-40.56669998168945,-73.1500015258789,Chile/Continental
+violation,warning,deny,1,US,USA,"United States",Somerset,40.037899017333984,-79.12039947509766,America/New_York
+violation,warning,deny,1,US,USA,"United States","Orchard Park",42.74420166015625,-78.74420166015625,America/New_York
+violation,warning,deny,1,US,USA,"United States",Ankeny,41.729698181152344,-93.60579681396484,America/Chicago
+violation,warning,deny,1,BR,BRA,Brazil,Campos,-21.75,-41.29999923706055,America/Sao_Paulo
+violation,warning,deny,1,CO,COL,Colombia,Medellín,6.251800060272217,-75.5635986328125,America/Bogota
+violation,warning,deny,1,CN,CHN,China,Hohhot,40.81060028076172,111.6521987915039,Asia/Harbin
+violation,warning,deny,1,US,USA,"United States",Roanoke,37.270999908447266,-79.94139862060547,America/New_York
+violation,warning,deny,1,RU,RUS,"Russian Federation",Saratov,51.54059982299805,46.00859832763672,Europe/Samara
+violation,warning,deny,1,BR,BRA,Brazil,Guaramirim,-26.450000762939453,-49.0,America/Sao_Paulo
+violation,warning,deny,1,IN,IND,India,Jalgaon,21.048599243164062,76.5344009399414,Asia/Calcutta
+violation,warning,deny,1,CN,CHN,China,Fushun,41.70000076293945,123.88330078125,Asia/Harbin
+violation,warning,deny,1,US,USA,"United States","Ninety Six",34.11859893798828,-81.99019622802734,America/New_York
+violation,warning,deny,3,TR,TUR,Turkey,Mersin,36.7327995300293,34.64419937133789,Asia/Istanbul
+violation,warning,deny,1,ES,ESP,Spain,Zaragoza,41.645301818847656,-0.8848999738693237,Europe/Madrid
+violation,warning,deny,1,PL,POL,Poland,Lublin,51.25,22.566699981689453,Europe/Warsaw
+violation,warning,deny,1,CA,CAN,Canada,Warner,49.28329849243164,-112.19999694824219,America/Edmonton
+violation,warning,deny,1,LK,LKA,"Sri Lanka",Colombo,6.9319000244140625,79.8478012084961,Asia/Colombo
+violation,warning,deny,1,RU,RUS,"Russian Federation",Ural,55.90520095825195,94.75370025634766,Asia/Krasnoyarsk
+violation,warning,deny,1,CN,CHN,China,Luoyang,34.68360137939453,112.45359802246094,Asia/Shanghai
+violation,warning,deny,1,DE,DEU,Germany,Herrenberg,48.599998474121094,8.866700172424316,Europe/Berlin
+violation,warning,deny,1,IR,IRN,"Iran, Islamic Republic of",Hamedan,34.799198150634766,48.51459884643555,Asia/Tehran
+violation,warning,deny,1,PT,PRT,Portugal,"São Brás De Alportel",37.153099060058594,-7.887499809265137,Europe/Lisbon
+violation,warning,deny,1,IN,IND,India,Ahmedabad,23.033300399780273,72.61669921875,Asia/Calcutta
+violation,warning,deny,1,RU,RUS,"Russian Federation",Dimitrovgrad,54.25,49.54999923706055,Europe/Samara
+violation,warning,deny,1,GB,GBR,"United Kingdom",Brackley,52.03329849243164,-1.149999976158142,Europe/London
+violation,warning,deny,1,US,USA,"United States",Chicopee,42.186100006103516,-72.52549743652344,America/New_York
+violation,warning,deny,1,RU,RUS,"Russian Federation",Salavat,53.38370132446289,55.90769958496094,Europe/Samara
+violation,warning,deny,1,US,USA,"United States",Westbury,40.75699996948242,-73.5813980102539,America/New_York
+violation,warning,deny,1,US,USA,"United States","Lake George",43.41999816894531,-73.71080017089844,America/New_York
+violation,warning,deny,1,CN,CHN,China,Linyi,37.190799713134766,116.86669921875,Asia/Shanghai
+violation,warning,deny,1,CN,CHN,China,Ganzhou,25.850000381469727,114.93329620361328,Asia/Shanghai
+violation,warning,deny,1,RU,RUS,"Russian Federation",Yoshkar-ola,56.63690185546875,47.87110137939453,Europe/Samara
+violation,warning,deny,1,US,USA,"United States",Middleton,43.11840057373047,-89.52069854736328,America/Chicago
+violation,warning,deny,1,CN,CHN,China,Zhangjiagang,31.950000762939453,120.44999694824219,Asia/Shanghai
+violation,warning,deny,1,IT,ITA,Italy,Massa,44.016700744628906,10.149999618530273,Europe/Rome
+violation,warning,deny,1,PH,PHL,Philippines,"Muntinlupa City",14.390299797058105,121.04750061035156,Asia/Manila
+violation,warning,deny,1,US,USA,"United States","Laguna Hills",33.59560012817383,-117.70030212402344,America/Los_Angeles
+violation,warning,deny,1,BR,BRA,Brazil,Leopoldina,-21.533300399780273,-42.63330078125,America/Sao_Paulo
+violation,warning,deny,1,ZA,ZAF,"South Africa",Polokwane,-23.904499053955078,29.468900680541992,Africa/Johannesburg
+violation,warning,deny,1,HK,HKG,"Hong Kong","Causeway Bay",22.283300399780273,114.18329620361328,Asia/Hong_Kong
+violation,warning,deny,1,TH,THA,Thailand,"Bang Khun Thian",13.663000106811523,100.43419647216797,Asia/Bangkok
+violation,warning,deny,1,RU,RUS,"Russian Federation",Vladikavkaz,43.03670120239258,44.66780090332031,Europe/Volgograd
+violation,warning,deny,1,CN,CHN,China,Weifang,36.709999084472656,119.10189819335938,Asia/Shanghai
+violation,warning,deny,1,AL,ALB,Albania,Tirana,41.32749938964844,19.818899154663086,Europe/Tirane
+violation,warning,deny,1,CN,CHN,China,Xinyang,32.09579849243164,114.12030029296875,Asia/Shanghai
+violation,warning,deny,1,CN,CHN,China,Zhuozhou,39.48109817504883,115.96330261230469,Asia/Shanghai
+violation,warning,deny,1,US,USA,"United States","West Middlesex",41.15599822998047,-80.48380279541016,America/New_York
+violation,warning,deny,1,BR,BRA,Brazil,Arujá,-23.399999618530273,-46.33330154418945,America/Sao_Paulo
+violation,warning,deny,1,US,USA,"United States","Chippewa Falls",44.9369010925293,-91.39289855957031,America/Chicago
+violation,warning,deny,1,IR,IRN,"Iran, Islamic Republic of",Zanjan,36.67359924316406,48.47869873046875,Asia/Tehran
+violation,warning,deny,1,CN,CHN,China,Xingyi,25.049999237060547,104.9832992553711,Asia/Chongqing
+violation,warning,deny,1,US,USA,"United States",Henderson,36.03120040893555,-115.07389831542969,America/Los_Angeles
+violation,warning,deny,1,BE,BEL,Belgium,Charleroi,50.41669845581055,4.433300018310547,Europe/Brussels
+violation,warning,deny,1,US,USA,"United States","Blue Bell",40.15760040283203,-75.27570343017578,America/New_York
+violation,warning,deny,1,RU,RUS,"Russian Federation",Chelny,55.00379943847656,50.054901123046875,Europe/Samara
+violation,warning,deny,1,TH,THA,Thailand,Ratchaburi,13.536700248718262,99.81710052490234,Asia/Bangkok
+violation,warning,deny,1,MK,MKD,Macedonia,Kumanovo,42.132198333740234,21.714399337768555,Europe/Skopje
+violation,warning,deny,1,US,USA,"United States",Youngstown,41.108699798583984,-80.70179748535156,America/New_York
+violation,warning,deny,1,VN,VNM,Vietnam,"Da Lat",11.933300018310547,108.41670227050781,Asia/Phnom_Penh
+violation,warning,deny,1,BR,BRA,Brazil,Marialva,-23.466699600219727,-51.70000076293945,America/Sao_Paulo
+violation,warning,deny,2,MX,MEX,Mexico,Monterrey,25.66670036315918,-100.31670379638672,America/Monterrey
+violation,warning,deny,1,VN,VNM,Vietnam,"Can Tho",10.033300399780273,105.7833023071289,Asia/Phnom_Penh
+violation,warning,deny,1,GB,GBR,"United Kingdom",Cheltenham,51.900001525878906,-2.0833001136779785,Europe/London
+violation,warning,deny,1,IT,ITA,Italy,Lodi,45.31669998168945,9.5,Europe/Rome
+violation,warning,deny,1,US,USA,"United States",Ogdensburg,44.605201721191406,-75.5947036743164,America/New_York
+violation,warning,deny,1,RU,RUS,"Russian Federation",Uryupinsk,50.8046989440918,42.01380157470703,Europe/Volgograd
+violation,warning,deny,1,BR,BRA,Brazil,"Juiz De Fora",-21.751699447631836,-43.35279846191406,America/Sao_Paulo
+violation,warning,deny,1,JP,JPN,Japan,Chofu,35.655601501464844,139.5522003173828,Asia/Tokyo
+violation,warning,deny,1,US,USA,"United States",Elkridge,39.2057991027832,-76.74800109863281,America/New_York
+violation,warning,deny,1,US,USA,"United States",Garner,35.64609909057617,-78.5791015625,America/New_York
+violation,warning,deny,1,BR,BRA,Brazil,Recife,-8.050000190734863,-34.900001525878906,America/Recife
+violation,warning,deny,1,TR,TUR,Turkey,Gumushane,40.46030044555664,39.48139953613281,Asia/Istanbul
+violation,warning,deny,1,CA,CAN,Canada,Brandon,49.83330154418945,-99.94999694824219,America/Winnipeg
+violation,warning,deny,1,PK,PAK,Pakistan,Multan,30.195600509643555,71.47530364990234,Asia/Karachi
+violation,warning,deny,1,US,USA,"United States",Largo,27.881200790405273,-82.7520980834961,America/New_York
+violation,warning,deny,1,CN,CHN,China,Qixian,37.35530090332031,112.31670379638672,Asia/Chongqing
+violation,warning,deny,1,ID,IDN,Indonesia,Balikpapan,-1.2833000421524048,116.83329772949219,Asia/Makassar
+violation,warning,deny,1,IR,IRN,"Iran, Islamic Republic of",Sistan,28.516799926757812,53.27730178833008,Asia/Tehran
+violation,warning,deny,1,RU,RUS,"Russian Federation",Belgorod,50.61069869995117,36.5802001953125,Europe/Moscow
+violation,warning,deny,1,US,USA,"United States","Spring Branch",29.908199310302734,-98.43720245361328,America/Chicago
+violation,warning,deny,1,BR,BRA,Brazil,Petrópolis,-22.510799407958984,-43.18439865112305,America/Sao_Paulo
+violation,warning,deny,1,MX,MEX,Mexico,Fresnillo,22.233299255371094,-102.33329772949219,America/Mexico_City
+violation,warning,deny,1,BR,BRA,Brazil,Camaquã,-30.850000381469727,-51.81669998168945,America/Sao_Paulo
+violation,warning,deny,1,ID,IDN,Indonesia,Kudus,-6.804800033569336,110.84049987792969,Asia/Jakarta
+violation,warning,deny,1,CN,CHN,China,Baipo,34.14310073852539,111.13580322265625,Asia/Shanghai
+violation,warning,deny,1,RU,RUS,"Russian Federation",Sosnovoborsk,56.121700286865234,93.3385009765625,Asia/Krasnoyarsk
+violation,warning,deny,1,RU,RUS,"Russian Federation",Stavropol,45.04280090332031,41.9734001159668,Europe/Volgograd
+violation,warning,deny,1,BR,BRA,Brazil,Ijuí,-28.38330078125,-53.91669845581055,America/Sao_Paulo
+violation,warning,deny,1,TH,THA,Thailand,"Chon Buri",13.362199783325195,100.9834976196289,Asia/Bangkok
+violation,warning,deny,1,US,USA,"United States",Vicksburg,32.2224006652832,-90.82929992675781,America/Chicago
+violation,warning,deny,1,CN,CHN,China,Hang,30.29360008239746,120.1613998413086,Asia/Shanghai
+violation,warning,deny,1,JP,JPN,Japan,Moriya,35.93330001831055,140.0,Asia/Tokyo
+violation,warning,deny,1,RU,RUS,"Russian Federation",Komsomolsk,50.551998138427734,137.01519775390625,Asia/Vladivostok
+violation,warning,deny,1,IN,IND,India,Mohali,30.780000686645508,76.69000244140625,Asia/Calcutta
+violation,warning,deny,2,RU,RUS,"Russian Federation",Belovo,54.416500091552734,86.29759979248047,Asia/Novokuznetsk
+violation,warning,deny,1,TR,TUR,Turkey,Eskisehir,39.77669906616211,30.520599365234375,Asia/Istanbul
+violation,warning,deny,1,US,USA,"United States",Mansfield,40.758399963378906,-82.5155029296875,America/New_York
+violation,warning,deny,1,CA,CAN,Canada,Armstrong,50.45000076293945,-119.18329620361328,America/Vancouver
+violation,warning,deny,1,CN,CHN,China,Lishi,37.51559829711914,111.13420104980469,Asia/Chongqing
+violation,warning,deny,1,BR,BRA,Brazil,"Trombudo Central",-27.299999237060547,-49.78329849243164,America/Sao_Paulo
+violation,warning,deny,1,NL,NLD,Netherlands,Heemskerk,52.51110076904297,4.671599864959717,Europe/Amsterdam
+violation,warning,deny,1,US,USA,"United States",Madison,43.063899993896484,-89.31449890136719,America/Chicago
+violation,warning,deny,1,IN,IND,India,Ambala,30.378299713134766,76.78079986572266,Asia/Calcutta
+violation,warning,deny,1,CN,CHN,China,Jinzhou,41.1077995300293,121.1417007446289,Asia/Harbin
+violation,warning,deny,1,US,USA,"United States",Cornelius,35.46989822387695,-80.88009643554688,America/New_York
+violation,warning,deny,1,ID,IDN,Indonesia,Yogyakarta,-7.782800197601318,110.36080169677734,Asia/Jakarta
+violation,warning,deny,1,CN,CHN,China,Guizhou,22.76259994506836,113.25180053710938,Asia/Chongqing
+violation,warning,deny,1,KZ,KAZ,Kazakhstan,Taldykorgan,45.01559829711914,78.3739013671875,Asia/Almaty
+violation,warning,deny,1,RU,RUS,"Russian Federation",Igra,57.54669952392578,53.064701080322266,Asia/Yekaterinburg
+violation,warning,deny,1,EG,EGY,Egypt,Gîza,30.00860023498535,31.212200164794922,Africa/Cairo
+violation,warning,deny,1,CO,COL,Colombia,"La Estrella",6.157700061798096,-75.64320373535156,America/Bogota
+violation,warning,deny,1,LV,LVA,Latvia,Riga,56.95000076293945,24.100000381469727,Europe/Riga
+violation,warning,deny,1,FI,FIN,Finland,Vaasa,63.099998474121094,21.600000381469727,Europe/Helsinki
+violation,warning,deny,1,US,USA,"United States","Panama City",30.159500122070312,-85.65979766845703,America/New_York
+violation,warning,deny,1,BR,BRA,Brazil,Ipojuca,-8.399999618530273,-35.06669998168945,America/Recife
+violation,warning,deny,1,PL,POL,Poland,"Brzeg Dolny",51.268001556396484,16.72170066833496,Europe/Warsaw
+violation,warning,deny,1,IR,IRN,"Iran, Islamic Republic of",Behbahan,30.59589958190918,50.24169921875,Asia/Tehran
+violation,warning,deny,1,FI,FIN,Finland,Porvoo,60.400001525878906,25.66670036315918,Europe/Helsinki
+violation,warning,deny,1,RS,SRB,Serbia,Beograd,44.818599700927734,20.46809959411621,Europe/Belgrade
+violation,warning,deny,1,BR,BRA,Brazil,Bertioga,-23.850000381469727,-46.150001525878906,America/Sao_Paulo
+violation,warning,deny,1,US,USA,"United States",Valdosta,30.7460994720459,-83.35130310058594,America/New_York
+violation,warning,deny,1,DE,DEU,Germany,Augsburg,48.36669921875,10.883299827575684,Europe/Berlin
+violation,warning,deny,1,JP,JPN,Japan,Hachioji,35.655799865722656,139.3238983154297,Asia/Tokyo
+violation,warning,deny,1,CN,CHN,China,Taian,36.185298919677734,117.12000274658203,Asia/Shanghai
+violation,warning,deny,1,TR,TUR,Turkey,Sanayi,36.903099060058594,30.699100494384766,Asia/Istanbul
+violation,warning,deny,1,KZ,KAZ,Kazakhstan,Atyrau,47.11669921875,51.88330078125,Asia/Aqtau
+violation,warning,deny,1,RU,RUS,"Russian Federation",Kirovo-chepetsk,58.55390167236328,50.03990173339844,Asia/Yekaterinburg
+violation,warning,deny,1,US,USA,"United States",Fayetteville,35.95429992675781,-93.97949981689453,America/Chicago
+violation,warning,deny,1,RU,RUS,"Russian Federation",Chekhov,55.147701263427734,37.477298736572266,Europe/Moscow
+violation,warning,deny,1,IT,ITA,Italy,Rome,41.900001525878906,12.48330020904541,Europe/Rome
+violation,warning,deny,1,CN,CHN,China,Deqing,30.54170036315918,119.9574966430664,Asia/Shanghai
+violation,warning,deny,1,RU,RUS,"Russian Federation",Georgievsk,44.15190124511719,43.46969985961914,Europe/Volgograd
+violation,warning,deny,1,PH,PHL,Philippines,"Cagayan De Oro",8.481100082397461,124.64309692382812,Asia/Manila
+violation,warning,deny,1,CN,CHN,China,Xuhui,31.195899963378906,121.44709777832031,Asia/Shanghai
+violation,warning,deny,1,IT,ITA,Italy,Mestrino,45.43330001831055,11.75,Europe/Rome
+violation,warning,deny,1,GB,GBR,"United Kingdom",Stockport,53.400001525878906,-2.1500000953674316,Europe/London
+violation,warning,deny,1,CN,CHN,China,Jing,44.650001525878906,82.83329772949219,Asia/Urumqi
+violation,warning,deny,1,BR,BRA,Brazil,"Pau Dos Ferros",-6.116700172424316,-38.16669845581055,America/Recife
+violation,warning,deny,1,ID,IDN,Indonesia,Samarinda,-0.5,117.1500015258789,Asia/Makassar
+violation,warning,deny,1,UA,UKR,Ukraine,Kharkiv,49.98080062866211,36.25270080566406,Europe/Zaporozhye
+violation,warning,deny,1,CN,CHN,China,Zhenjiang,32.210899353027344,119.4551010131836,Asia/Shanghai
+violation,warning,deny,1,US,USA,"United States","Maple Valley",47.40610122680664,-121.99530029296875,America/Los_Angeles
+violation,warning,deny,1,ID,IDN,Indonesia,Banjarmasin,-3.3333001136779785,114.58329772949219,Asia/Makassar
+violation,warning,deny,1,CZ,CZE,"Czech Republic",Strakonice,49.26100158691406,13.905099868774414,Europe/Prague
+violation,warning,deny,1,RU,RUS,"Russian Federation",Novouralsk,57.243900299072266,60.083900451660156,Asia/Yekaterinburg
+violation,warning,deny,1,TR,TUR,Turkey,Trabzon,41.005001068115234,39.726898193359375,Asia/Istanbul
+violation,warning,deny,1,JP,JPN,Japan,Kanzaki,33.29999923706055,130.36669921875,Asia/Tokyo
+violation,warning,deny,1,PR,PRI,"Puerto Rico","Toa Baja",18.4325008392334,-66.21289825439453,America/Puerto_Rico
+violation,warning,deny,1,CN,CHN,China,Jiamusi,46.83330154418945,130.35000610351562,Asia/Harbin
+violation,warning,deny,1,RO,ROU,Romania,Pitesti,44.849998474121094,24.86669921875,Europe/Bucharest
+violation,warning,deny,1,MY,MYS,Malaysia,Skudai,1.5333000421524048,103.66670227050781,Asia/Kuala_Lumpur
+violation,warning,deny,1,RU,RUS,"Russian Federation",Izhevsk,56.84980010986328,53.204498291015625,Asia/Yekaterinburg
+violation,warning,deny,1,ID,IDN,Indonesia,Tulungagung,-8.065699577331543,111.90249633789062,Asia/Jakarta
+violation,warning,deny,1,TR,TUR,Turkey,Denizli,37.774200439453125,29.087499618530273,Asia/Istanbul
+violation,warning,deny,1,US,USA,"United States",Gloucester,37.4468994140625,-76.5531005859375,America/New_York
+violation,warning,deny,1,RU,RUS,"Russian Federation",Bugulma,54.53779983520508,52.798500061035156,Europe/Samara
+violation,warning,deny,1,AR,ARG,Argentina,Rosario,-32.946800231933594,-60.63930130004883,America/Argentina/Buenos_Aires
+violation,warning,deny,1,IL,ISR,Israel,Shoqeda,31.422199249267578,34.52389907836914,Asia/Jerusalem
+violation,warning,deny,1,ZA,ZAF,"South Africa",Worcester,-33.64649963378906,19.44849967956543,Africa/Johannesburg
+violation,warning,deny,1,AR,ARG,Argentina,"Villa Carlos Paz",-31.424100875854492,-64.497802734375,America/Argentina/Cordoba
+violation,warning,deny,1,GU,GUM,Guam,Barrigada,13.444299697875977,144.7863006591797,Pacific/Guam

@@ -1,0 +1,14 @@
+/*--------------------------------------
+Author: Gabriel Svennerberg
+Email: gabriel@svennerberg.com
+Created: 2010-03-17
+Description: Stylesheet for example 1
+----------------------------------------*/
+#map {
+max-width: none;
+height: 500px;
+border: 1px solid #000;
+}
+.info {
+width: 250px;
+}
