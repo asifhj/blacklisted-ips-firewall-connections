@@ -3,7 +3,6 @@ blacklisted-ips-firewall-connections
 
 Blacklisted IPs communication with firewall.
 
-
 ## Setup
 
 Copy into any webserver where PHP is enabled
