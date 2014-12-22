@@ -11,14 +11,14 @@ Copy into any webserver where PHP is enabled
 ## Summary
 
 * violation_countries_map.php
-    * Shows list of countries communicating with the firewall
+    * Shows list of countries communicating with the firewall which voilated
 * blacklisted_countries_map.php
     * Shows list of blacklisted IPs from the countries.
-    * Shows how to create and read the results of an asynchronous search job
 * blacklisted_ips.php
     * Lists all details of blacklisted IPs
 * blacklist_ip_match_to_txt_ip.py
     * use this script to match the IPs with blacklisted IPs
+
 The source of data are here is CSV files, you can extend to DB or analytics tool level.
 
 
