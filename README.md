@@ -25,11 +25,11 @@ The source of data are here is CSV files, you can extend to DB or analytics tool
 
 ## Screenshots
 
-![Screenshot 1](https://raw.github.com/asifhj/blacklisted-ips-firewall-connecitons/master/Screenshot.png)
+![Screenshot 1](https://raw.github.com/asifhj/blacklisted-ips-firewall-connections/master/Screenshot.png)
 
-![Screenshot 2](https://raw.github.com/asifhj/blacklisted-ips-firewall-connecitons/master/Screenshot-1.png)
+![Screenshot 2](https://raw.github.com/asifhj/blacklisted-ips-firewall-connections/master/Screenshot-1.png)
 
-![Screenshot 3](https://raw.github.com/asifhj/blacklisted-ips-firewall-connecitons/master/Screenshot-2.png)
+![Screenshot 3](https://raw.github.com/asifhj/blacklisted-ips-firewall-connections/master/Screenshot-2.png)
 
 
 
