@@ -3,7 +3,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
   <title>Country violation by city</title>
-  <link rel="stylesheet" type="text/css" href="examples/shared/style.css" />
+  <link rel="stylesheet" type="text/css" href="vendor/shared/style.css" />
    <style type="text/css">
       #map-canvas {
         

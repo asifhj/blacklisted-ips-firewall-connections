@@ -4,8 +4,8 @@
 <head>
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>Blacklisted IPs violation.</title> 
-  <link rel="stylesheet" type="text/css" href="examples/shared/style.css" />
-  <link rel="stylesheet" type="text/css" href="examples/shared/style.css" />
+  <link rel="stylesheet" type="text/css" href="vendor/shared/style.css" />
+  <link rel="stylesheet" type="text/css" href="vendor/shared/style.css" />
   <link rel="stylesheet" type="text/css" href="./vendor/css/default.css" />
    <style type="text/css">
       #map-canvas {
@@ -78,7 +78,7 @@
 	 <div class="span6">	 		
 		
 		<div id="container"></div>
-		<div id="examples"></div>
+		<div id="vendor"></div>
 		<div id="c2"></div>
 	
 	 </div>

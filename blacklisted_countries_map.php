@@ -5,7 +5,7 @@
   <title>Blacklisted countries</title>
   <script src="./vendor/js/infobubble.js" type="text/javascript"></script>
   <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false&libraries=places"></script>
-  <link rel="stylesheet" type="text/css" href="examples/shared/style.css" />
+  <link rel="stylesheet" type="text/css" href="vendor/shared/style.css" />
   <link rel="stylesheet" type="text/css" href="./vendor/css/default.css" />
    <style type="text/css">
       #map-canvas {
